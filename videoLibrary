@@ -1,0 +1,3395 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  dir="ltr" lang="en-US">
+
+	<head>
+		<title>Violin Lab - Learn Violin Lessons</title>
+		<meta name="TITLE" content="Learn Violin Vibrato" />
+		<meta name="DESCRIPTION" content="Learn how to play violin Suzuki violin, violin vibrato and other violin techniques with violin technique video lessons." />		
+		<meta name="KEYWORDS" content="Violin vibrato, Suzuki violin lessons, classical violin, violin lessons, Suzuki songs, violin bow hold,spiccato,"/>
+		<meta name="AUTHOR" content="Tony Edwards" />
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta name="Copyright" content="Copyright (c) 2010 violinlab.com  All rights reserved." />
+		<link rel="stylesheet" type="text/css" href="http://violinlab.com/skin/css/main.css">
+		<link rel="stylesheet" type="text/css" href="http://violinlab.com/skin/css/modal_window.css">
+		<script type='text/javascript' src='http://violinlab.com/js/jquery.js'></script>
+		<script type='text/javascript' src='http://violinlab.com/js/draggable.ui.js'></script>
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+		
+
+			
+		
+		<!--[if lt IE 7]>
+    	<script type="text/javascript" language="javascript">
+    		sfHover = function() {
+			var sfEls = document.getElementById("navigation").getElementsByTagName("LI");
+				for (var i=0; i<sfEls.length; i++) {
+    			sfEls[i].onmouseover=function() {
+        		this.className+=" sfhover";
+    			}
+		sfEls[i].onmouseout=function() {
+	    this.className=this.className.replace(new RegExp(" sfhover\b"), "");
+			}
+		  }
+		}
+		if (window.attachEvent) window.attachEvent("onload", sfHover);
+    	</script>
+    	<![endif]-->
+        
+        <script type="text/javascript" language="javascript">
+        
+		function nextPage(limit){
+		
+		document.searchForm.pagePostBack.value = limit;
+		document.searchForm.submit();
+		
+		}
+		
+		
+		</script>
+		
+		
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12893367-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('http:' == document.location.protocol ? 'http://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+        
+		
+	</head>
+
+
+
+
+<body >
+
+<!----------CONTAINER------------------>
+<div id="column">
+	<div id="top_column">
+		<div id="header">
+			<div id="headerButtons">
+		           	<table border="0">
+		            	<tr>
+		            	<td>
+							
+		<select id='language' name='language'>
+			<option value='english' >English</option>
+			<option value='spanish' >Spanish</option>
+			<option value='portuguese' >Portuguese</option>
+		</select>
+	
+	
+						</td>
+		                <td>
+	<a href='http://violinlab.com/Members/' title='Member Login' class='button' style='background: #d543f0;'><b>Login</b></a></td>
+		                <td colspan="3">
+	<a href='http://violinlab.com/Members/SignUp/' class='button' style='background: #65bd6d;' title='Become a Member'><b>Become a Member</b></a></td>
+		                </tr>
+		            </table>
+           	</div><!-- end of headerButton -->
+			
+			<div id='logo' style=''>
+				<a href='http://violinlab.com'>
+					<img src='http://violinlab.com/skin/images/logo.png'>
+					<div class='thin-font;' style='padding: 5px 0 0 10px; font-size: 20px;'>Home for passionate violin learners</div>
+				</a>
+			</div>
+		</div><!-- end of header -->
+		
+	</div>
+	
+		<div id="content_wrapper">
+			<div class="content">
+<!--
+<div style='text-align: right;'>
+	<a href='#' onClick="window.open('tutorial.php','movementWindow_$lessonId','width=1200, height=800, scrollbars=no')"><b>See how Violin Lab works</b></a>
+</div>
+-->
+<h1>
+	<table width='100%' border='0'>
+		<tr>
+			<td style='font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 100; font-size: 40px;'>Video Library</td>
+			<td align='right' valign='bottom'>
+				<form method='post'>
+					<table border='0'>
+						<tr>
+							<td><input type='text' name='searchLessons'></td>
+							<td><input type='submit' name='submitSearch' value='Search Videos' class='button' style='padding: 0 20px; line-height: 26px; border: none; '></td>
+						</tr>
+					</table>	
+				</form>
+			</td>
+		</tr>
+		
+	</table>	
+	
+	
+</h1>
+
+<div style='margin-left: 30px;'>
+	<table width='100%' height='650' border='0'>
+		<tr>
+			<td valign='top' height='40'>
+			<div class='main-category' style='width: 100%; text-align: center;'>
+				
+			</div></td>
+			<td style='border-left: 1px solid #ccc; padding-left: 10px;' valign='top' height='40'>
+			<div class='main-category' style='width: 100%; text-align: center;'>
+				<b>
+				<a href='http://violinlab.com/videoLibrary/'>View all</a>
+				</b>
+			</div>
+					</td>
+		</tr>
+		<tr>
+			<td width='320' style='padding-left: 20px;' valign='top'> 
+	<div class='main-category' dir='5' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Beginning Lessons:  Level 1</a>
+	</div>
+		<div class='sub-category' id='sub-category-5'>
+		
+	<div class='sub-menu' dir='53'>
+		<div>
+		<a href='javascript:void(0);' category='5' level=''>Getting Started</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-53'><a href='javascript:void(0);' class='select-lessons' category='5' twig='14'>Getting Started With the Curriculum</a><br><a href='javascript:void(0);' class='select-lessons' category='5' twig='13'>Setting Up</a><br><a href='javascript:void(0);' class='select-lessons' category='5' twig='17'>Establishing the Right Hand First</a><br><a href='javascript:void(0);' class='select-lessons' category='5' twig='18'>Establishing the Left Hand Next</a><br></div>
+	
+	<div class='sub-menu' dir='36'>
+		<div>
+		<a href='javascript:void(0);' category='5' level=''>Technique</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-36'><a href='javascript:void(0);' class='select-lessons' category='5' twig='22'>Tone and Intonation Development Stage 1</a><br><a href='javascript:void(0);' class='select-lessons' category='5' twig='5'>Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='5' twig='12'>Left Hand</a><br></div>
+	
+	<div class='sub-menu' dir='10'>
+		<div>
+		<a href='javascript:void(0);' category='5' level=''>Repertoire</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-10'><a href='javascript:void(0);' class='select-lessons' category='5' twig='4'>Suzuki Book 1 and Violin Lab Repertoire</a><br></div>
+	
+	<div class='sub-menu' dir='63'>
+		<div>
+		<a href='javascript:void(0);' category='5' level=''>Etudes, Scales, and Exercises</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-63'><a href='javascript:void(0);' class='select-lessons' category='5' twig='19'>Exercises and Concepts to Review</a><br><a href='javascript:void(0);' class='select-lessons' category='5' twig='24'>Etudes and Scales</a><br></div>
+	
+	<div class='sub-menu' dir='54'>
+		<div>
+		<a href='javascript:void(0);' category='5' level=''>Watch Even Though You Are Not There Yet</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-54'><a href='javascript:void(0);' class='select-lessons' category='5' twig='20'>Key Concepts of Right Arm Technique</a><br><a href='javascript:void(0);' class='select-lessons' category='5' twig='21'>Key Concepts of the Left Hand</a><br></div>
+	
+		</div>
+	
+	<div class='main-category' dir='30' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Beginning Lessons:  Level 2</a>
+	</div>
+		<div class='sub-category' id='sub-category-30'>
+		
+	<div class='sub-menu' dir='61'>
+		<div>
+		<a href='javascript:void(0);' category='30' level=''>Technique</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-61'><a href='javascript:void(0);' class='select-lessons' category='30' twig='33'>Tone and Intonation</a><br><a href='javascript:void(0);' class='select-lessons' category='30' twig='34'>Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='30' twig='35'>Left Hand</a><br></div>
+	
+	<div class='sub-menu' dir='62'>
+		<div>
+		<a href='javascript:void(0);' category='30' level=''>Repertoire</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-62'><a href='javascript:void(0);' class='select-lessons' category='30' twig='36'>Suzuki Book 1 and Violin Lab Repertoire</a><br></div>
+	
+	<div class='sub-menu' dir='64'>
+		<div>
+		<a href='javascript:void(0);' category='30' level=''>Etudes, Scales, and Exercises</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-64'><a href='javascript:void(0);' class='select-lessons' category='30' twig='84'>Etudes, Scales, and Practicing</a><br><a href='javascript:void(0);' class='select-lessons' category='30' twig='38'>Exercises and Concepts for Review</a><br></div>
+	
+	<div class='sub-menu' dir='76'>
+		<div>
+		<a href='javascript:void(0);' category='30' level=''>Watch Even Though You Are Not There Yet</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-76'><a href='javascript:void(0);' class='select-lessons' category='30' twig='44'>Key Concepts of Right Arm Technique</a><br><a href='javascript:void(0);' class='select-lessons' category='30' twig='45'>Key Concepts of the Left Hand</a><br></div>
+	
+		</div>
+	
+	<div class='main-category' dir='31' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Beginning Lessons:  Level 3</a>
+	</div>
+		<div class='sub-category' id='sub-category-31'>
+		
+	<div class='sub-menu' dir='72'>
+		<div>
+		<a href='javascript:void(0);' category='31' level=''>Technique</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-72'><a href='javascript:void(0);' class='select-lessons' category='31' twig='46'>Tone and Intonation</a><br><a href='javascript:void(0);' class='select-lessons' category='31' twig='47'>Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='31' twig='48'>Left Hand</a><br></div>
+	
+	<div class='sub-menu' dir='73'>
+		<div>
+		<a href='javascript:void(0);' category='31' level=''>Repertoire</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-73'><a href='javascript:void(0);' class='select-lessons' category='31' twig='50'>Suzuki Book 1 & 2 and Violin Lab Repertoire</a><br></div>
+	
+	<div class='sub-menu' dir='74'>
+		<div>
+		<a href='javascript:void(0);' category='31' level=''>Etudes, Scales, and Exercises</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-74'><a href='javascript:void(0);' class='select-lessons' category='31' twig='52'>Etudes, Scales, and Practicing</a><br><a href='javascript:void(0);' class='select-lessons' category='31' twig='53'>Exercises and Concepts for Review</a><br></div>
+	
+	<div class='sub-menu' dir='78'>
+		<div>
+		<a href='javascript:void(0);' category='31' level=''>Watch Even Though You Are Not There Yet</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-78'><a href='javascript:void(0);' class='select-lessons' category='31' twig='61'>Key Concepts of Right Arm Technique</a><br><a href='javascript:void(0);' class='select-lessons' category='31' twig='62'>Key Concepts of the Left Hand</a><br></div>
+	
+		</div>
+	
+	<div class='main-category' dir='16' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Intermediate Lessons: Level 1</a>
+	</div>
+		<div class='sub-category' id='sub-category-16'>
+		
+	<div class='sub-menu' dir='52'>
+		<div>
+		<a href='javascript:void(0);' category='16' level=''>Technique</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-52'><a href='javascript:void(0);' class='select-lessons' category='16' twig='68'>Tone and Intonation</a><br><a href='javascript:void(0);' class='select-lessons' category='16' twig='7'>Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='16' twig='85'>Left Hand</a><br></div>
+	
+	<div class='sub-menu' dir='51'>
+		<div>
+		<a href='javascript:void(0);' category='16' level=''>Repertoire</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-51'><a href='javascript:void(0);' class='select-lessons' category='16' twig='66'>Suzuki Book 2 and Violin Lab Repertoire</a><br></div>
+	
+	<div class='sub-menu' dir='80'>
+		<div>
+		<a href='javascript:void(0);' category='16' level=''>Etudes, Scales, and Exercises</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-80'><a href='javascript:void(0);' class='select-lessons' category='16' twig='72'>Etudes and Scales</a><br><a href='javascript:void(0);' class='select-lessons' category='16' twig='73'>Exercises and Concepts for Review</a><br></div>
+	
+	<div class='sub-menu' dir='81'>
+		<div>
+		<a href='javascript:void(0);' category='16' level=''>Watch Even if You Are Not There Yet</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-81'><a href='javascript:void(0);' class='select-lessons' category='16' twig='81'>Key Concepts for the Left Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='16' twig='82'>Key Concepts for the Right Hand</a><br></div>
+	
+		</div>
+	
+	<div class='main-category' dir='32' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Intermediate Lessons: Level 2</a>
+	</div>
+		<div class='sub-category' id='sub-category-32'>
+		
+	<div class='sub-menu' dir='82'>
+		<div>
+		<a href='javascript:void(0);' category='32' level=''>Technique</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-82'><a href='javascript:void(0);' class='select-lessons' category='32' twig='86'>Tone and Intonation</a><br><a href='javascript:void(0);' class='select-lessons' category='32' twig='87'>Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='32' twig='88'>Left Hand</a><br></div>
+	
+	<div class='sub-menu' dir='83'>
+		<div>
+		<a href='javascript:void(0);' category='32' level=''>Repertoire</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-83'><a href='javascript:void(0);' class='select-lessons' category='32' twig='89'>Suzuki Book  2 & 3 and Violin Lab Repertoire</a><br></div>
+	
+	<div class='sub-menu' dir='84'>
+		<div>
+		<a href='javascript:void(0);' category='32' level=''>Etudes, Scales, and Exercises </a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-84'><a href='javascript:void(0);' class='select-lessons' category='32' twig='91'>Etudes and Scales</a><br><a href='javascript:void(0);' class='select-lessons' category='32' twig='94'>Exercises and Concepts to Review</a><br></div>
+	
+	<div class='sub-menu' dir='86'>
+		<div>
+		<a href='javascript:void(0);' category='32' level=''>Watch Even Though You Are Not There Yet</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-86'><a href='javascript:void(0);' class='select-lessons' category='32' twig='99'>Key Concepts for the Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='32' twig='101'>Key Concepts for the Left Hand</a><br></div>
+	
+		</div>
+	
+	<div class='main-category' dir='33' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Intermediate Lessons: Level 3</a>
+	</div>
+		<div class='sub-category' id='sub-category-33'>
+		
+	<div class='sub-menu' dir='87'>
+		<div>
+		<a href='javascript:void(0);' category='33' level=''>Technique</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-87'><a href='javascript:void(0);' class='select-lessons' category='33' twig='103'>Tone and Intonation</a><br><a href='javascript:void(0);' class='select-lessons' category='33' twig='104'>Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='33' twig='105'>Left Hand</a><br></div>
+	
+	<div class='sub-menu' dir='88'>
+		<div>
+		<a href='javascript:void(0);' category='33' level=''>Repertoire</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-88'><a href='javascript:void(0);' class='select-lessons' category='33' twig='106'>Suzuki Book 3 and Violin Lab Repertoire</a><br></div>
+	
+	<div class='sub-menu' dir='89'>
+		<div>
+		<a href='javascript:void(0);' category='33' level=''>Etudes, Scales, and Exercises </a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-89'><a href='javascript:void(0);' class='select-lessons' category='33' twig='108'>Exercises and Concepts to Review</a><br><a href='javascript:void(0);' class='select-lessons' category='33' twig='109'>Etudes and Scales</a><br></div>
+	
+	<div class='sub-menu' dir='91'>
+		<div>
+		<a href='javascript:void(0);' category='33' level=''>Watch Even Though You Are Not There Yet</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-91'><a href='javascript:void(0);' class='select-lessons' category='33' twig='117'>Key Concepts for the Left Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='33' twig='118'>Key Concepts for the Right Hand</a><br></div>
+	
+		</div>
+	
+	<div class='main-category' dir='22' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Advanced Lessons: Level 1</a>
+	</div>
+		<div class='sub-category' id='sub-category-22'>
+		
+	<div class='sub-menu' dir='57'>
+		<div>
+		<a href='javascript:void(0);' category='22' level=''>Technique</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-57'><a href='javascript:void(0);' class='select-lessons' category='22' twig='122'>Tone and Intonation</a><br><a href='javascript:void(0);' class='select-lessons' category='22' twig='123'>Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='22' twig='125'>Left Hand</a><br></div>
+	
+	<div class='sub-menu' dir='58'>
+		<div>
+		<a href='javascript:void(0);' category='22' level=''>Repertoire</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-58'><a href='javascript:void(0);' class='select-lessons' category='22' twig='124'>Suzuki Book 4</a><br></div>
+	
+	<div class='sub-menu' dir='93'>
+		<div>
+		<a href='javascript:void(0);' category='22' level=''>Etudes, Scales, and Exercises</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-93'><a href='javascript:void(0);' class='select-lessons' category='22' twig='126'>Exercises and Concepts for Review</a><br><a href='javascript:void(0);' class='select-lessons' category='22' twig='127'>Etudes and Scales</a><br></div>
+	
+	<div class='sub-menu' dir='92'>
+		<div>
+		<a href='javascript:void(0);' category='22' level=''>Watch Even Though You Are Not There Yet</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-92'><a href='javascript:void(0);' class='select-lessons' category='22' twig='128'>Key Concepts of Right Hand Technique</a><br><a href='javascript:void(0);' class='select-lessons' category='22' twig='129'>Key Concepts for the Left Hand</a><br></div>
+	
+		</div>
+	
+	<div class='main-category' dir='34' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Advanced Lessons: Level 2</a>
+	</div>
+		<div class='sub-category' id='sub-category-34'>
+		
+	<div class='sub-menu' dir='96'>
+		<div>
+		<a href='javascript:void(0);' category='34' level=''>Etudes, Scales, and Exercises</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-96'><a href='javascript:void(0);' class='select-lessons' category='34' twig='136'>Etudes and Scales</a><br><a href='javascript:void(0);' class='select-lessons' category='34' twig='137'>Exercises and Concepts for Review</a><br></div>
+	
+	<div class='sub-menu' dir='95'>
+		<div>
+		<a href='javascript:void(0);' category='34' level=''>Repertoire</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-95'><a href='javascript:void(0);' class='select-lessons' category='34' twig='135'>Suzuki Book 4</a><br></div>
+	
+	<div class='sub-menu' dir='94'>
+		<div>
+		<a href='javascript:void(0);' category='34' level=''>Technique</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-94'><a href='javascript:void(0);' class='select-lessons' category='34' twig='132'>Tone and Intonation</a><br><a href='javascript:void(0);' class='select-lessons' category='34' twig='133'>Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='34' twig='134'>Left Hand</a><br></div>
+	
+	<div class='sub-menu' dir='97'>
+		<div>
+		<a href='javascript:void(0);' category='34' level=''>Watch Even Though You Are Not There Yet</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-97'></div>
+	
+		</div>
+	
+	<div class='main-category' dir='36' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Mastery Level</a>
+	</div>
+		<div class='sub-category' id='sub-category-36'>
+		
+	<div class='sub-menu' dir='102'>
+		<div>
+		<a href='javascript:void(0);' category='36' level=''>Technique</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-102'><a href='javascript:void(0);' class='select-lessons' category='36' twig='138'>Right Hand</a><br><a href='javascript:void(0);' class='select-lessons' category='36' twig='139'>Left Hand</a><br></div>
+	
+	<div class='sub-menu' dir='103'>
+		<div>
+		<a href='javascript:void(0);' category='36' level=''>Repertoire</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-103'><a href='javascript:void(0);' class='select-lessons' category='36' twig='140'>Advanced Repertoire</a><br></div>
+	
+	<div class='sub-menu' dir='104'>
+		<div>
+		<a href='javascript:void(0);' category='36' level=''>Etudes, Scales, and Exercises</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-104'><a href='javascript:void(0);' class='select-lessons' category='36' twig='141'>Exercises and Concepts for Review</a><br><a href='javascript:void(0);' class='select-lessons' category='36' twig='142'>Etudes and Scales</a><br></div>
+	
+		</div>
+	
+	<div class='main-category' dir='37' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>Recovering Skills After Hiatus</a>
+	</div>
+		<div class='sub-category' id='sub-category-37'>
+		
+	<div class='sub-menu' dir='70'>
+		<div>
+		<a href='javascript:void(0);' category='37' level=''>Reclaiming Lost Skills</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-70'><a href='javascript:void(0);' class='select-lessons' category='37' twig='29'>Basic Technique To Be Sure and Review</a><br><a href='javascript:void(0);' class='select-lessons' category='37' twig='30'>Great Exercises to Practice Daily</a><br></div>
+	
+	<div class='sub-menu' dir='71'>
+		<div>
+		<a href='javascript:void(0);' category='37' level=''>New Skills to Learn</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-71'><a href='javascript:void(0);' class='select-lessons' category='37' twig='119'>Focusing on Getting the Best Tone</a><br><a href='javascript:void(0);' class='select-lessons' category='37' twig='31'>Right Hand Techniques</a><br><a href='javascript:void(0);' class='select-lessons' category='37' twig='32'>Left Hand Techniques</a><br><a href='javascript:void(0);' class='select-lessons' category='37' twig='120'>Practice Habits</a><br></div>
+	
+		</div>
+	
+	<div class='main-category' dir='24' style='padding-top: 5px; font-weight: 200;'>
+		<a href='javascript:void(0);'>More</a>
+	</div>
+		<div class='sub-category' id='sub-category-24'>
+		
+	<div class='sub-menu' dir='59'>
+		<div>
+		<a href='javascript:void(0);' category='24' level=''>Interviews with Experts</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-59'><a href='javascript:void(0);' class='select-lessons' category='24' twig='143'>Dr. Laurie Scott</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='144'>Dr. Stephen Redfield</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='145'>Dr. Kristin Yon</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='147'>Dr. Colleen McCullough</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='148'>Dr. Paula Bird</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='149'>Elise Winters</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='150'>Martha Carapetyan</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='151'>Jessica Matheas</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='152'>Dr. Glen Leupnitz</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='153'>Daniela Shtereva</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='154'>Dan Kobialka</a><br><a href='javascript:void(0);' class='select-lessons' category='24' twig='155'>Bruce Williams (Viola Interview)</a><br></div>
+	
+	<div class='sub-menu' dir='105'>
+		<div>
+		<a href='javascript:void(0);' category='24' level=''>Workshop Classes</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-105'><a href='javascript:void(0);' class='select-lessons' category='24' twig='146'>Workshop 2012</a><br></div>
+	
+	<div class='sub-menu' dir='106'>
+		<div>
+		<a href='javascript:void(0);' category='24' level=''>Christmas Carols</a>
+		</div>
+	 </div>
+		 <div class='sub-sub-menu' id='sub-sub-menu-106'><a href='javascript:void(0);' class='select-lessons' category='24' twig='156'>Christmas Carols</a><br></div>
+	
+		</div>
+				</td>
+			<td style='border-left: 1px solid #ccc; padding-left: 10px;' id='lesson-panel' valign='top'>
+				<div style='height: 620px; overflow-y: scroll;'>
+				<table border='0' cellpadding='2' >
+<tr><td valign='top' width='50'> 1</td><td valign='top'> 
+				<a href='lesson.php?id=598' target='_blank'>
+				Watch This If You Are a Beginner and New to Violin Lab
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 2</td><td valign='top'> 
+				<a href='lesson.php?id=31' target='_blank'>
+				 Instrument Set Up
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 3</td><td valign='top'> 
+				<a href='lesson.php?id=597' target='_blank'>
+				Best Practices for your Best Practices: creating effective practice sessions
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 4</td><td valign='top'> 
+				<a href='lesson.php?id=9' target='_blank'>
+				Putting Guide Tapes on the Violin
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 5</td><td valign='top'> 
+				<a href='lesson.php?id=32' target='_blank'>
+				Tuning the Violin with Electronic Tuner
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 6</td><td valign='top'> 
+				<a href='lesson.php?id=286' target='_blank'>
+				Tuning the Violin with Fine Tuners
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 7</td><td valign='top'> 
+				<a href='lesson.php?id=11' target='_blank'>
+				Shoulder Pad Styles
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 8</td><td valign='top'> 
+				<a href='lesson.php?id=12' target='_blank'>
+				Putting on the Shoulder pad
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 9</td><td valign='top'> 
+				<a href='lesson.php?id=409' target='_blank'>
+				Adjusting the Bon Musica
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 10</td><td valign='top'> 
+				<a href='lesson.php?id=33' target='_blank'>
+				Tuning the Violin in Fifths
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 11</td><td valign='top'> 
+				<a href='lesson.php?id=13' target='_blank'>
+				How to Hold the Bow
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 12</td><td valign='top'> 
+				<a href='lesson.php?id=35' target='_blank'>
+				Bow Hold Exercises
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 13</td><td valign='top'> 
+				<a href='lesson.php?id=39' target='_blank'>
+				Tightening the Bow
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 14</td><td valign='top'> 
+				<a href='lesson.php?id=40' target='_blank'>
+				Rosining the Bow
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 15</td><td valign='top'> 
+				<a href='lesson.php?id=36' target='_blank'>
+				Violin Hold
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 16</td><td valign='top'> 
+				<a href='lesson.php?id=37' target='_blank'>
+				Comfortability Issues
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 17</td><td valign='top'> 
+				<a href='lesson.php?id=38' target='_blank'>
+				Note Names of Open Strings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 18</td><td valign='top'> 
+				<a href='lesson.php?id=273' target='_blank'>
+				Bow Geometry
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 19</td><td valign='top'> 
+				<a href='lesson.php?id=41' target='_blank'>
+				Preparing the Bow Arm
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 20</td><td valign='top'> 
+				<a href='lesson.php?id=53' target='_blank'>
+				First Bow Strokes
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 21</td><td valign='top'> 
+				<a href='lesson.php?id=51' target='_blank'>
+				 Guided Practice Introduction
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 22</td><td valign='top'> 
+				<a href='lesson.php?id=52' target='_blank'>
+				Guided Practice #1:Playing in the Middle of the Bow
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 23</td><td valign='top'> 
+				<a href='lesson.php?id=54' target='_blank'>
+				Playing at the Tip of the Bow
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 24</td><td valign='top'> 
+				<a href='lesson.php?id=55' target='_blank'>
+				Bowing at the Frog
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 25</td><td valign='top'> 
+				<a href='lesson.php?id=56' target='_blank'>
+				 Guided Practice #2: Playing at the Frog and Tip
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 26</td><td valign='top'> 
+				<a href='lesson.php?id=57' target='_blank'>
+				Crossing Strings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 27</td><td valign='top'> 
+				<a href='lesson.php?id=58' target='_blank'>
+				Guided Practice #3: String Crossings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 28</td><td valign='top'> 
+				<a href='lesson.php?id=59' target='_blank'>
+				Whole Bow Strokes
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 29</td><td valign='top'> 
+				<a href='lesson.php?id=60' target='_blank'>
+				Guided Practice #4: Whole Bow Strokes
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 30</td><td valign='top'> 
+				<a href='lesson.php?id=8' target='_blank'>
+				Thumb and Left Hand Placement
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 31</td><td valign='top'> 
+				<a href='lesson.php?id=61' target='_blank'>
+				Finger Action of the Left Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 32</td><td valign='top'> 
+				<a href='lesson.php?id=62' target='_blank'>
+				Finger Action and Finger Pressure
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 33</td><td valign='top'> 
+				<a href='lesson.php?id=63' target='_blank'>
+				Adding Fingers to Bow Stroke
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 34</td><td valign='top'> 
+				<a href='lesson.php?id=65' target='_blank'>
+				Tone Production 1: Finding the Ring Tones
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 35</td><td valign='top'> 
+				<a href='lesson.php?id=64' target='_blank'>
+				 2-3 Finger Spacing Pattern 
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 36</td><td valign='top'> 
+				<a href='lesson.php?id=636' target='_blank'>
+				Fingers and Bow Strokes: Pre-Twinkle Exercises
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 37</td><td valign='top'> 
+				<a href='lesson.php?id=66' target='_blank'>
+				Intonation: part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 38</td><td valign='top'> 
+				<a href='lesson.php?id=271' target='_blank'>
+				Left Hand Mobility and Relaxation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 39</td><td valign='top'> 
+				<a href='lesson.php?id=388' target='_blank'>
+				Playing Comfortably on the G String
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 40</td><td valign='top'> 
+				<a href='lesson.php?id=67' target='_blank'>
+				Note Names for Finger Spacing Pattern 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 41</td><td valign='top'> 
+				<a href='lesson.php?id=68' target='_blank'>
+				Guided Practice #5: Finger Spacing Pattern 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 42</td><td valign='top'> 
+				<a href='lesson.php?id=307' target='_blank'>
+				Twinkle, Twinkle, Little Star Lesson 1: Variation A
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 43</td><td valign='top'> 
+				<a href='lesson.php?id=308' target='_blank'>
+				Twinkle, Twinkle, Little Star: Lesson 2: Variation C
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 44</td><td valign='top'> 
+				<a href='lesson.php?id=309' target='_blank'>
+				Twinkle, Twinkle, Little Star: Lesson 3: Variation D
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 45</td><td valign='top'> 
+				<a href='lesson.php?id=310' target='_blank'>
+				Twinkle, Twinkle, Little Star: Lesson 4: Variation E
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 46</td><td valign='top'> 
+				<a href='lesson.php?id=311' target='_blank'>
+				Twinkle, Twinkle, Little Star: Lesson 5: Variation B
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 47</td><td valign='top'> 
+				<a href='lesson.php?id=312' target='_blank'>
+				Twinkle, Twinkle, Little Star: Lesson 6: Learning the Left Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 48</td><td valign='top'> 
+				<a href='lesson.php?id=313' target='_blank'>
+				Twinkle, Twinkle, Little Star: Lesson 7: Putting it All Together
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 49</td><td valign='top'> 
+				<a href='lesson.php?id=314' target='_blank'>
+				Twinkle, Twinkle, Little Star: lesson 8: Twinkle Theme
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 50</td><td valign='top'> 
+				<a href='lesson.php?id=315' target='_blank'>
+				Twinkle, Twinkle, Little Star: performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 51</td><td valign='top'> 
+				<a href='lesson.php?id=457' target='_blank'>
+				Superstudies book 1:  #5
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 52</td><td valign='top'> 
+				<a href='lesson.php?id=69' target='_blank'>
+				Bow Retakes
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 53</td><td valign='top'> 
+				<a href='lesson.php?id=70' target='_blank'>
+				A major scale
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 54</td><td valign='top'> 
+				<a href='lesson.php?id=451' target='_blank'>
+				Superstudies book 1:  #1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 55</td><td valign='top'> 
+				<a href='lesson.php?id=71' target='_blank'>
+				Skips with Finger Spacing Pattern 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 56</td><td valign='top'> 
+				<a href='lesson.php?id=503' target='_blank'>
+				D Major Scale (note demonstration)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 57</td><td valign='top'> 
+				<a href='lesson.php?id=504' target='_blank'>
+				D Major Scale (practicing the scale)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 58</td><td valign='top'> 
+				<a href='lesson.php?id=505' target='_blank'>
+				French Folk Song
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 59</td><td valign='top'> 
+				<a href='lesson.php?id=316' target='_blank'>
+				Lightly Row: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 60</td><td valign='top'> 
+				<a href='lesson.php?id=317' target='_blank'>
+				Song of the Wind: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 61</td><td valign='top'> 
+				<a href='lesson.php?id=72' target='_blank'>
+				Broken Third Pattern
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 62</td><td valign='top'> 
+				<a href='lesson.php?id=328' target='_blank'>
+				Go Tell Aunt Rhody: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 63</td><td valign='top'> 
+				<a href='lesson.php?id=330' target='_blank'>
+				May Song: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 64</td><td valign='top'> 
+				<a href='lesson.php?id=73' target='_blank'>
+				Using 4th finger
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 65</td><td valign='top'> 
+				<a href='lesson.php?id=456' target='_blank'>
+				Superstudies book 1:  #4
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 66</td><td valign='top'> 
+				<a href='lesson.php?id=329' target='_blank'>
+				O Come, Little Children: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 67</td><td valign='top'> 
+				<a href='lesson.php?id=74' target='_blank'>
+				Guided Practice #6: Skips, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 68</td><td valign='top'> 
+				<a href='lesson.php?id=75' target='_blank'>
+				Guided Practice #7: Skips, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 69</td><td valign='top'> 
+				<a href='lesson.php?id=267' target='_blank'>
+				Bow Arm Tension: Getting Rid of the Bounce
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 70</td><td valign='top'> 
+				<a href='lesson.php?id=76' target='_blank'>
+				Intonation: part II
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 71</td><td valign='top'> 
+				<a href='lesson.php?id=50' target='_blank'>
+				Accidentally Hitting Other Strings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 72</td><td valign='top'> 
+				<a href='lesson.php?id=453' target='_blank'>
+				Stiffness in the Wrist and Fingers of the Bow Arm
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 73</td><td valign='top'> 
+				<a href='lesson.php?id=530' target='_blank'>
+				The Fluid Shoulder (aka Getting Rid of the Bounces)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 74</td><td valign='top'> 
+				<a href='lesson.php?id=97' target='_blank'>
+				Are You Sleeping in A major
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 75</td><td valign='top'> 
+				<a href='lesson.php?id=627' target='_blank'>
+				Bow Hand: Weight Distribution (video response)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 76</td><td valign='top'> 
+				<a href='lesson.php?id=489' target='_blank'>
+				The Bow Hold in Motion
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 77</td><td valign='top'> 
+				<a href='lesson.php?id=488' target='_blank'>
+				Advanced Bow Hold
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 78</td><td valign='top'> 
+				<a href='lesson.php?id=24' target='_blank'>
+				Finger Motion: Fingers Move the Bow
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 79</td><td valign='top'> 
+				<a href='lesson.php?id=265' target='_blank'>
+				Finger Motion at the Frog
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 80</td><td valign='top'> 
+				<a href='lesson.php?id=490' target='_blank'>
+				Building Flexibility into the Bow Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 81</td><td valign='top'> 
+				<a href='lesson.php?id=491' target='_blank'>
+				Daily Bow Hand Exercises for Developing Flexibility
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 82</td><td valign='top'> 
+				<a href='lesson.php?id=508' target='_blank'>
+				Bow Arm Considerations: wrist and elbow levels
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 83</td><td valign='top'> 
+				<a href='lesson.php?id=577' target='_blank'>
+				The Galamian Bow Arm
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 84</td><td valign='top'> 
+				<a href='lesson.php?id=254' target='_blank'>
+				Left Hand Squeezing: part 1: Why We Do It
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 85</td><td valign='top'> 
+				<a href='lesson.php?id=255' target='_blank'>
+				Left Hand Squeezing part 2: Security Matters
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 86</td><td valign='top'> 
+				<a href='lesson.php?id=256' target='_blank'>
+				Left Hand Squeezing: part 3 - Restructuring
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 87</td><td valign='top'> 
+				<a href='lesson.php?id=257' target='_blank'>
+				Left Hand Squeezing: part 4 - Strengthening the Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 88</td><td valign='top'> 
+				<a href='lesson.php?id=258' target='_blank'>
+				Left Hand Squeezing: part 5 - How Much Space, Really?
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 89</td><td valign='top'> 
+				<a href='lesson.php?id=423' target='_blank'>
+				 Left Hand Squeezing: part 6: First Finger and the E string: No Scrunching!
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 90</td><td valign='top'> 
+				<a href='lesson.php?id=472' target='_blank'>
+				Left Hand Squeezing: part 7: Extras
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 91</td><td valign='top'> 
+				<a href='lesson.php?id=534' target='_blank'>
+				Left Thumb: Issues with Placement and Pressure
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 92</td><td valign='top'> 
+				<a href='lesson.php?id=331' target='_blank'>
+				Long, Long Ago: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 93</td><td valign='top'> 
+				<a href='lesson.php?id=332' target='_blank'>
+				Allegro: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 94</td><td valign='top'> 
+				<a href='lesson.php?id=337' target='_blank'>
+				Perpetual Motion: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 95</td><td valign='top'> 
+				<a href='lesson.php?id=264' target='_blank'>
+				Block Fingerings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 96</td><td valign='top'> 
+				<a href='lesson.php?id=340' target='_blank'>
+				Allegretto: performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 97</td><td valign='top'> 
+				<a href='lesson.php?id=333' target='_blank'>
+				Allegretto: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 98</td><td valign='top'> 
+				<a href='lesson.php?id=102' target='_blank'>
+				Slurs
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 99</td><td valign='top'> 
+				<a href='lesson.php?id=263' target='_blank'>
+				Guided Practice #8:  Slurs
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 100</td><td valign='top'> 
+				<a href='lesson.php?id=452' target='_blank'>
+				Superstudies book 1:  #2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 101</td><td valign='top'> 
+				<a href='lesson.php?id=99' target='_blank'>
+				Finger Spacing Pattern 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 102</td><td valign='top'> 
+				<a href='lesson.php?id=103' target='_blank'>
+				 Note Names for Finger Spacing Pattern 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 103</td><td valign='top'> 
+				<a href='lesson.php?id=104' target='_blank'>
+				Guided Practice #9 Spacing Pattern II, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 104</td><td valign='top'> 
+				<a href='lesson.php?id=105' target='_blank'>
+				Guided Practice #10: Spacing Pattern II, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 105</td><td valign='top'> 
+				<a href='lesson.php?id=109' target='_blank'>
+				G Major 2-octave scale
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 106</td><td valign='top'> 
+				<a href='lesson.php?id=110' target='_blank'>
+				Intonation III
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 107</td><td valign='top'> 
+				<a href='lesson.php?id=111' target='_blank'>
+				Are You Sleeping in G major
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 108</td><td valign='top'> 
+				<a href='lesson.php?id=112' target='_blank'>
+				Intonation IV
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 109</td><td valign='top'> 
+				<a href='lesson.php?id=454' target='_blank'>
+				Superstudies book 1:  #8
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 110</td><td valign='top'> 
+				<a href='lesson.php?id=113' target='_blank'>
+				Lesson 54: Simple Gifts in G major
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 111</td><td valign='top'> 
+				<a href='lesson.php?id=274' target='_blank'>
+				Maintaining a Straight Bow part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 112</td><td valign='top'> 
+				<a href='lesson.php?id=275' target='_blank'>
+				 Maintaining a Straight Bow prt. 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 113</td><td valign='top'> 
+				<a href='lesson.php?id=276' target='_blank'>
+				Maintaining a Straight Bow part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 114</td><td valign='top'> 
+				<a href='lesson.php?id=277' target='_blank'>
+				Maintaining a Straight Bow part 4
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 115</td><td valign='top'> 
+				<a href='lesson.php?id=278' target='_blank'>
+				Maintaining a Straight Bow part 5
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 116</td><td valign='top'> 
+				<a href='lesson.php?id=279' target='_blank'>
+				Maintaining a Straight Bow part 6
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 117</td><td valign='top'> 
+				<a href='lesson.php?id=416' target='_blank'>
+				Maintaining a Straight Bow #7: Fast Bows
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 118</td><td valign='top'> 
+				<a href='lesson.php?id=532' target='_blank'>
+				Maintaining a Straight Bow #8: The Bi-Fold Door and the Bow Arm
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 119</td><td valign='top'> 
+				<a href='lesson.php?id=594' target='_blank'>
+				 More on Straight Bowing: part 1 Keeping on track
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 120</td><td valign='top'> 
+				<a href='lesson.php?id=595' target='_blank'>
+				More on Straight Bowing: part 2 Tips for the Tall and Short
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 121</td><td valign='top'> 
+				<a href='lesson.php?id=596' target='_blank'>
+				More on Straight Bowing: part 3 Getting stuck at the Frog and Improving Fast Detach&eacute; Strokes
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 122</td><td valign='top'> 
+				<a href='lesson.php?id=599' target='_blank'>
+				Tip for Training detach&#233;: the Resistance Band
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 123</td><td valign='top'> 
+				<a href='lesson.php?id=335' target='_blank'>
+				Etude: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 124</td><td valign='top'> 
+				<a href='lesson.php?id=247' target='_blank'>
+				Fingertips hitting other strings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 125</td><td valign='top'> 
+				<a href='lesson.php?id=233' target='_blank'>
+				Tension when using the Low 2nd Finger
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 126</td><td valign='top'> 
+				<a href='lesson.php?id=114' target='_blank'>
+				 Finger Spacing Pattern 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 127</td><td valign='top'> 
+				<a href='lesson.php?id=115' target='_blank'>
+				Note Names for Finger Spacing Pattern 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 128</td><td valign='top'> 
+				<a href='lesson.php?id=116' target='_blank'>
+				A Major 2-Octave Scale
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 129</td><td valign='top'> 
+				<a href='lesson.php?id=117' target='_blank'>
+				Guided Practice #11: Finger Spacing Pattern 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 130</td><td valign='top'> 
+				<a href='lesson.php?id=341' target='_blank'>
+				Andantino: performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 131</td><td valign='top'> 
+				<a href='lesson.php?id=334' target='_blank'>
+				Andantino: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 132</td><td valign='top'> 
+				<a href='lesson.php?id=455' target='_blank'>
+				Superstudies book 1:  #10
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 133</td><td valign='top'> 
+				<a href='lesson.php?id=253' target='_blank'>
+				Consistent Finger Placement and Intonation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 134</td><td valign='top'> 
+				<a href='lesson.php?id=118' target='_blank'>
+				Bow Weight
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 135</td><td valign='top'> 
+				<a href='lesson.php?id=119' target='_blank'>
+				 Bow Speed and Rhythmic Patterns
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 136</td><td valign='top'> 
+				<a href='lesson.php?id=120' target='_blank'>
+				Bow Speed and Tone
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 137</td><td valign='top'> 
+				<a href='lesson.php?id=266' target='_blank'>
+				Bow Tilt
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 138</td><td valign='top'> 
+				<a href='lesson.php?id=342' target='_blank'>
+				Minuet #1: performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 139</td><td valign='top'> 
+				<a href='lesson.php?id=336' target='_blank'>
+				Minuet #1: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 140</td><td valign='top'> 
+				<a href='lesson.php?id=612' target='_blank'>
+				Schradieck / Schradick - for everyone (Best finger action training ever)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 141</td><td valign='top'> 
+				<a href='lesson.php?id=121' target='_blank'>
+				Tuning with the Pegs
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 142</td><td valign='top'> 
+				<a href='lesson.php?id=122' target='_blank'>
+				Third Finger Spacing Pattern 3 (Low Position)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 143</td><td valign='top'> 
+				<a href='lesson.php?id=123' target='_blank'>
+				B flat 2-Octave scale
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 144</td><td valign='top'> 
+				<a href='lesson.php?id=124' target='_blank'>
+				Guided Practice #12: Finger Drills 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 145</td><td valign='top'> 
+				<a href='lesson.php?id=125' target='_blank'>
+				Guided Practice # 13: Finger Drills 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 146</td><td valign='top'> 
+				<a href='lesson.php?id=126' target='_blank'>
+				Guided Practice #14 Finger Drills 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 147</td><td valign='top'> 
+				<a href='lesson.php?id=343' target='_blank'>
+				Minuet #2: performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 148</td><td valign='top'> 
+				<a href='lesson.php?id=338' target='_blank'>
+				Minuet #2: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 149</td><td valign='top'> 
+				<a href='lesson.php?id=344' target='_blank'>
+				Minuet #3: performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 150</td><td valign='top'> 
+				<a href='lesson.php?id=339' target='_blank'>
+				Minuet #3: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 151</td><td valign='top'> 
+				<a href='lesson.php?id=203' target='_blank'>
+				Smooth String Crossings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 152</td><td valign='top'> 
+				<a href='lesson.php?id=248' target='_blank'>
+				Independence Between Left and Right Hands
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 153</td><td valign='top'> 
+				<a href='lesson.php?id=345' target='_blank'>
+				Gossec Gavotte: performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 154</td><td valign='top'> 
+				<a href='lesson.php?id=349' target='_blank'>
+				Happy Farmer: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 155</td><td valign='top'> 
+				<a href='lesson.php?id=346' target='_blank'>
+				Happy Farmer: performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 156</td><td valign='top'> 
+				<a href='lesson.php?id=249' target='_blank'>
+				Hovering Fingers
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 157</td><td valign='top'> 
+				<a href='lesson.php?id=268' target='_blank'>
+				Finger Action: Slow Release
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 158</td><td valign='top'> 
+				<a href='lesson.php?id=269' target='_blank'>
+				Finger Action: Slow Drop
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 159</td><td valign='top'> 
+				<a href='lesson.php?id=347' target='_blank'>
+				Gossec Gavotte: tutorial, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 160</td><td valign='top'> 
+				<a href='lesson.php?id=348' target='_blank'>
+				Gossec Gavotte: tutorial, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 161</td><td valign='top'> 
+				<a href='lesson.php?id=363' target='_blank'>
+				Chorus from Judas Maccabaeus: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 162</td><td valign='top'> 
+				<a href='lesson.php?id=381' target='_blank'>
+				Elements of Tone Production: Sounding Point, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 163</td><td valign='top'> 
+				<a href='lesson.php?id=380' target='_blank'>
+				Elements of Tone Production: Sounding Point, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 164</td><td valign='top'> 
+				<a href='lesson.php?id=379' target='_blank'>
+				Elements of Tone Production: Sounding Point, part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 165</td><td valign='top'> 
+				<a href='lesson.php?id=389' target='_blank'>
+				Elements of Tone Production: Bow Pressure
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 166</td><td valign='top'> 
+				<a href='lesson.php?id=390' target='_blank'>
+				Elements of Tone Production: Bow Speed
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 167</td><td valign='top'> 
+				<a href='lesson.php?id=500' target='_blank'>
+				&#x22;Deeply Grow the Roots&#x22;: Beginning Tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 168</td><td valign='top'> 
+				<a href='lesson.php?id=365' target='_blank'>
+				Long, Long Ago (Suzuki Book 2) : tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 169</td><td valign='top'> 
+				<a href='lesson.php?id=366' target='_blank'>
+				Hunter&#x27;s Chorus: Suzuki Book 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 170</td><td valign='top'> 
+				<a href='lesson.php?id=378' target='_blank'>
+				Waltz: Suzuki Book 2: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 171</td><td valign='top'> 
+				<a href='lesson.php?id=531' target='_blank'>
+				Olivia&#x27;s Waltz: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 172</td><td valign='top'> 
+				<a href='lesson.php?id=613' target='_blank'>
+				Weaning off Tapes
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 173</td><td valign='top'> 
+				<a href='lesson.php?id=250' target='_blank'>
+				Developing Good Rhythm and Sight-Reading Skills
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 174</td><td valign='top'> 
+				<a href='lesson.php?id=292' target='_blank'>
+				Practicing with a Metronome and Tips on Slow Practice
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 175</td><td valign='top'> 
+				<a href='lesson.php?id=43' target='_blank'>
+				String Crossings Series: part 1: Maintaining Tone
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 176</td><td valign='top'> 
+				<a href='lesson.php?id=44' target='_blank'>
+				String Crossings Series: part 2: Micro Levels
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 177</td><td valign='top'> 
+				<a href='lesson.php?id=45' target='_blank'>
+				String Crossings Series: part 3: Coordination with Left Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 178</td><td valign='top'> 
+				<a href='lesson.php?id=46' target='_blank'>
+				String Crossings Series: part 4: Efficiency I
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 179</td><td valign='top'> 
+				<a href='lesson.php?id=47' target='_blank'>
+				String Crossings Series: part 5: Efficiency II
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 180</td><td valign='top'> 
+				<a href='lesson.php?id=48' target='_blank'>
+				String Crossings Series: part 6: String Crossing Exercises
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 181</td><td valign='top'> 
+				<a href='lesson.php?id=49' target='_blank'>
+				String Crossings Series: part 7: Integration
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 182</td><td valign='top'> 
+				<a href='lesson.php?id=375' target='_blank'>
+				String Crossing Exercises #1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 183</td><td valign='top'> 
+				<a href='lesson.php?id=376' target='_blank'>
+				String Crossing Exercises #2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 184</td><td valign='top'> 
+				<a href='lesson.php?id=377' target='_blank'>
+				String Crossing Exercises #3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 185</td><td valign='top'> 
+				<a href='lesson.php?id=382' target='_blank'>
+				String Crossing Exercises #4
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 186</td><td valign='top'> 
+				<a href='lesson.php?id=364' target='_blank'>
+				Musette: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 187</td><td valign='top'> 
+				<a href='lesson.php?id=502' target='_blank'>
+				&#x22;Si Bheag Si Mhor&#x22;: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 188</td><td valign='top'> 
+				<a href='lesson.php?id=414' target='_blank'>
+				Left Hand Conditioning: Strengthening and Stretching, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 189</td><td valign='top'> 
+				<a href='lesson.php?id=415' target='_blank'>
+				Left Hand Conditioning: Strengthening and Stretching, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 190</td><td valign='top'> 
+				<a href='lesson.php?id=369' target='_blank'>
+				Bouree by Handel: Suzuki Book 2 tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 191</td><td valign='top'> 
+				<a href='lesson.php?id=373' target='_blank'>
+				Two Grenadiers: tutorial, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 192</td><td valign='top'> 
+				<a href='lesson.php?id=417' target='_blank'>
+				Suzuki Book 2, Minuet in G by Beethoven: part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 193</td><td valign='top'> 
+				<a href='lesson.php?id=418' target='_blank'>
+				Suzuki Book 2:  Minuet in G by Beethoven, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 194</td><td valign='top'> 
+				<a href='lesson.php?id=384' target='_blank'>
+				Theme from Witches Dance: Performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 195</td><td valign='top'> 
+				<a href='lesson.php?id=419' target='_blank'>
+				Suzuki Book 2: Lully Gavotte, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 196</td><td valign='top'> 
+				<a href='lesson.php?id=374' target='_blank'>
+				Two Grenadiers: tutorial, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 197</td><td valign='top'> 
+				<a href='lesson.php?id=492' target='_blank'>
+				Two Grenadiers Performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 198</td><td valign='top'> 
+				<a href='lesson.php?id=387' target='_blank'>
+				Theme from Witches Dance: Part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 199</td><td valign='top'> 
+				<a href='lesson.php?id=385' target='_blank'>
+				Theme from Witches Dance: Part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 200</td><td valign='top'> 
+				<a href='lesson.php?id=386' target='_blank'>
+				Theme from Witches Dance: Part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 201</td><td valign='top'> 
+				<a href='lesson.php?id=394' target='_blank'>
+				Gavotte from Mignon: performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 202</td><td valign='top'> 
+				<a href='lesson.php?id=391' target='_blank'>
+				Gavotte from Mignon: tutorial, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 203</td><td valign='top'> 
+				<a href='lesson.php?id=392' target='_blank'>
+				Gavotte from Mignon: tutorial, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 204</td><td valign='top'> 
+				<a href='lesson.php?id=393' target='_blank'>
+				Gavotte from Mignon: tutorial, part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 205</td><td valign='top'> 
+				<a href='lesson.php?id=514' target='_blank'>
+				Suzuki Book 3:  Gavotte in G minor (Bach)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 206</td><td valign='top'> 
+				<a href='lesson.php?id=515' target='_blank'>
+				Suzuki Book 3:  Minuet  (Bach)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 207</td><td valign='top'> 
+				<a href='lesson.php?id=600' target='_blank'>
+				Suzuki Book 3:  Becker Gavotte
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 208</td><td valign='top'> 
+				<a href='lesson.php?id=430' target='_blank'>
+				Violin Vibrato: Slow Motion Dos and Donts
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 209</td><td valign='top'> 
+				<a href='lesson.php?id=5' target='_blank'>
+				Vibrato: Part 1:  Basic Motion
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 210</td><td valign='top'> 
+				<a href='lesson.php?id=25' target='_blank'>
+				Vibrato: Part 2: Impulse Mechanism
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 211</td><td valign='top'> 
+				<a href='lesson.php?id=81' target='_blank'>
+				Vibrato: Part 3: Learning Wrist Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 212</td><td valign='top'> 
+				<a href='lesson.php?id=82' target='_blank'>
+				Vibrato: Part 4: Learning Arm Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 213</td><td valign='top'> 
+				<a href='lesson.php?id=83' target='_blank'>
+				Vibrato: part 5: Adding the Bow
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 214</td><td valign='top'> 
+				<a href='lesson.php?id=84' target='_blank'>
+				Vibrato: part 6: Next Level Exercises
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 215</td><td valign='top'> 
+				<a href='lesson.php?id=85' target='_blank'>
+				Vibrato: part 7: Adding Pitch
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 216</td><td valign='top'> 
+				<a href='lesson.php?id=86' target='_blank'>
+				Vibrato: part 8: Integrating
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 217</td><td valign='top'> 
+				<a href='lesson.php?id=87' target='_blank'>
+				Vibrato: part 9: Continuous Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 218</td><td valign='top'> 
+				<a href='lesson.php?id=88' target='_blank'>
+				Vibrato:part 10: Vibrato in High Positions
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 219</td><td valign='top'> 
+				<a href='lesson.php?id=89' target='_blank'>
+				Vibrato: part 11: The Gorgeous Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 220</td><td valign='top'> 
+				<a href='lesson.php?id=90' target='_blank'>
+				Vibrato: part 12: Gorgeous Vibrato, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 221</td><td valign='top'> 
+				<a href='lesson.php?id=413' target='_blank'>
+				Vibrato: trick to develop basic motion
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 222</td><td valign='top'> 
+				<a href='lesson.php?id=524' target='_blank'>
+				Vibrato: What happens when the hand and arm work against each other
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 223</td><td valign='top'> 
+				<a href='lesson.php?id=533' target='_blank'>
+				Vibrato: the Problematic G string Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 224</td><td valign='top'> 
+				<a href='lesson.php?id=431' target='_blank'>
+				Vibrato: Troubleshooting the Shaky Violin and the Climbing Left Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 225</td><td valign='top'> 
+				<a href='lesson.php?id=572' target='_blank'>
+				Arm Vibrato: Tight Knuckles
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 226</td><td valign='top'> 
+				<a href='lesson.php?id=559' target='_blank'>
+				Vibrato: Wrist angles
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 227</td><td valign='top'> 
+				<a href='lesson.php?id=560' target='_blank'>
+				Vibrato: (video response) Adding Finger Pressure
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 228</td><td valign='top'> 
+				<a href='lesson.php?id=511' target='_blank'>
+				Vibrato Practice part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 229</td><td valign='top'> 
+				<a href='lesson.php?id=512' target='_blank'>
+				Vibrato Practice part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 230</td><td valign='top'> 
+				<a href='lesson.php?id=513' target='_blank'>
+				Vibrato Practice part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 231</td><td valign='top'> 
+				<a href='lesson.php?id=205' target='_blank'>
+				Bow Strokes: Detach&#233;, Legato, Marcato, Martele, Staccato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 232</td><td valign='top'> 
+				<a href='lesson.php?id=3' target='_blank'>
+				Sad Romance: a study in Romantic shifting
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 233</td><td valign='top'> 
+				<a href='lesson.php?id=77' target='_blank'>
+				Bow Articulation: part 1: Overview
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 234</td><td valign='top'> 
+				<a href='lesson.php?id=78' target='_blank'>
+				Bow Articulation: part 2: Mechanics
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 235</td><td valign='top'> 
+				<a href='lesson.php?id=79' target='_blank'>
+				Bow Articulation: part 3: Practice Exercises
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 236</td><td valign='top'> 
+				<a href='lesson.php?id=371' target='_blank'>
+				Whole Bows: (Legato at the Tip)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 237</td><td valign='top'> 
+				<a href='lesson.php?id=80' target='_blank'>
+				The Sustained Bow Stroke
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 238</td><td valign='top'> 
+				<a href='lesson.php?id=204' target='_blank'>
+				The Staccato Bow Stroke (on the string)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 239</td><td valign='top'> 
+				<a href='lesson.php?id=207' target='_blank'>
+				The Staccato Bow Stroke (off the string)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 240</td><td valign='top'> 
+				<a href='lesson.php?id=206' target='_blank'>
+				Staccato Vs. Spiccato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 241</td><td valign='top'> 
+				<a href='lesson.php?id=474' target='_blank'>
+				Staccato Practice
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 242</td><td valign='top'> 
+				<a href='lesson.php?id=200' target='_blank'>
+				Learning Spiccato: part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 243</td><td valign='top'> 
+				<a href='lesson.php?id=201' target='_blank'>
+				Learning Spiccato, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 244</td><td valign='top'> 
+				<a href='lesson.php?id=473' target='_blank'>
+				Classical Bowing Articulation: 2-slur, 2-separate
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 245</td><td valign='top'> 
+				<a href='lesson.php?id=27' target='_blank'>
+				Double Stops: part 1: Establishing Tone
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 246</td><td valign='top'> 
+				<a href='lesson.php?id=91' target='_blank'>
+				Double Stops: part 2: Left Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 247</td><td valign='top'> 
+				<a href='lesson.php?id=92' target='_blank'>
+				(FREE) Double Stops: part 3: Intonation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 248</td><td valign='top'> 
+				<a href='lesson.php?id=93' target='_blank'>
+				Double Stops: part 4: Perfect Intervals
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 249</td><td valign='top'> 
+				<a href='lesson.php?id=94' target='_blank'>
+				Double Stops: part 5: Difficult Intervals and Hand Position
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 250</td><td valign='top'> 
+				<a href='lesson.php?id=95' target='_blank'>
+				Double Stops: part 6: Vibrato with Double Stops and Playing Octaves
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 251</td><td valign='top'> 
+				<a href='lesson.php?id=96' target='_blank'>
+				Double Stops: part 7: Playing Double Stops in High Positions and Fiddling Double Stops
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 252</td><td valign='top'> 
+				<a href='lesson.php?id=202' target='_blank'>
+				Double Stops: part 8: Introducing Ms. Trott
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 253</td><td valign='top'> 
+				<a href='lesson.php?id=193' target='_blank'>
+				Shifting 101: Part 1 - Basics
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 254</td><td valign='top'> 
+				<a href='lesson.php?id=194' target='_blank'>
+				 Shifting 101: Part 2 - One finger shifting
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 255</td><td valign='top'> 
+				<a href='lesson.php?id=195' target='_blank'>
+				Shifting 101: Part 3 - Coordinating Bow Direction and Shift
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 256</td><td valign='top'> 
+				<a href='lesson.php?id=196' target='_blank'>
+				Shifting 101: Part 4 - One Finger Shifting Exercise
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 257</td><td valign='top'> 
+				<a href='lesson.php?id=197' target='_blank'>
+				Shifting 101: Part 5 - Shifting Styles (Classical)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 258</td><td valign='top'> 
+				<a href='lesson.php?id=198' target='_blank'>
+				Shifting 101: Part 6 - Shifting Styles (Romantic)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 259</td><td valign='top'> 
+				<a href='lesson.php?id=199' target='_blank'>
+				Shifting 101: Part 7 - Shifting Styles (Hybrid and Romanticized Classical)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 260</td><td valign='top'> 
+				<a href='lesson.php?id=285' target='_blank'>
+				Shifting and Bow Changes
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 261</td><td valign='top'> 
+				<a href='lesson.php?id=318' target='_blank'>
+				Shifting Training part 1: Modes of Travel and Rules of Engagement
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 262</td><td valign='top'> 
+				<a href='lesson.php?id=319' target='_blank'>
+				Shifting Training part 2: Classical Shift ascending (low finger to high finger)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 263</td><td valign='top'> 
+				<a href='lesson.php?id=320' target='_blank'>
+				Shifting Training part 3: Descending (lower finger to higher finger)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 264</td><td valign='top'> 
+				<a href='lesson.php?id=321' target='_blank'>
+				Shifting Training part 4: Descending (higher finger to lower finger)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 265</td><td valign='top'> 
+				<a href='lesson.php?id=322' target='_blank'>
+				Shifting Training part 5: Ascending Scale (Higher finger to lower finger)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 266</td><td valign='top'> 
+				<a href='lesson.php?id=323' target='_blank'>
+				Shifting Training part 6: Down the Scale
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 267</td><td valign='top'> 
+				<a href='lesson.php?id=464' target='_blank'>
+				Shifting Training: part 7a: One Finger Scales, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 268</td><td valign='top'> 
+				<a href='lesson.php?id=465' target='_blank'>
+				Shifting Training: Part 7b One Finger Scales, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 269</td><td valign='top'> 
+				<a href='lesson.php?id=466' target='_blank'>
+				Shifting Training: Part 7c One Finger Scales, part 3 (arpeggios)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 270</td><td valign='top'> 
+				<a href='lesson.php?id=550' target='_blank'>
+				Shifting Training: Part 8 (Shifting Exercise to develop hand shapes for high positions)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 271</td><td valign='top'> 
+				<a href='lesson.php?id=208' target='_blank'>
+				Meditation from Thais: phrase 1, performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 272</td><td valign='top'> 
+				<a href='lesson.php?id=209' target='_blank'>
+				Meditation from Thais: phrase 1, tutorial part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 273</td><td valign='top'> 
+				<a href='lesson.php?id=210' target='_blank'>
+				Meditation from Thais: phrase 1, tutorial part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 274</td><td valign='top'> 
+				<a href='lesson.php?id=213' target='_blank'>
+				Meditation from Thais: phrase 1, tutorial part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 275</td><td valign='top'> 
+				<a href='lesson.php?id=214' target='_blank'>
+				Meditation from Thais: phrase 1, tutorial part 4
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 276</td><td valign='top'> 
+				<a href='lesson.php?id=211' target='_blank'>
+				Meditation from Thais: phrase 2, performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 277</td><td valign='top'> 
+				<a href='lesson.php?id=212' target='_blank'>
+				Meditation from Thais: phrase 2, tutorial part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 278</td><td valign='top'> 
+				<a href='lesson.php?id=215' target='_blank'>
+				Meditation from Thais: phrase 2, tutorial part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 279</td><td valign='top'> 
+				<a href='lesson.php?id=216' target='_blank'>
+				(FREE) Meditation from Thais: phrase 3, performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 280</td><td valign='top'> 
+				<a href='lesson.php?id=217' target='_blank'>
+				Meditation from Thais: phrase 3, tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 281</td><td valign='top'> 
+				<a href='lesson.php?id=218' target='_blank'>
+				Meditation from Thais: phrase 4, performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 282</td><td valign='top'> 
+				<a href='lesson.php?id=219' target='_blank'>
+				Meditation from Thais: phrase 4, tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 283</td><td valign='top'> 
+				<a href='lesson.php?id=220' target='_blank'>
+				Meditation from Thais: final phrase, performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 284</td><td valign='top'> 
+				<a href='lesson.php?id=221' target='_blank'>
+				Meditation from Thais: final phrase, tutorial 
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 285</td><td valign='top'> 
+				<a href='lesson.php?id=240' target='_blank'>
+				Scale Studies: Introduction and Explanation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 286</td><td valign='top'> 
+				<a href='lesson.php?id=234' target='_blank'>
+				Fourth Position and Flat Keys
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 287</td><td valign='top'> 
+				<a href='lesson.php?id=229' target='_blank'>
+				Scale Study #1: Frog to Tip Articulation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 288</td><td valign='top'> 
+				<a href='lesson.php?id=236' target='_blank'>
+				Scale Study #2: Bow/Finger Coordination
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 289</td><td valign='top'> 
+				<a href='lesson.php?id=237' target='_blank'>
+				Scale Study #3:  Quick Down Bows (bow distribution) 
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 290</td><td valign='top'> 
+				<a href='lesson.php?id=238' target='_blank'>
+				Scale Study #4: &#x22;The Fling&#x22;  (Hooked Bowing Patterns)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 291</td><td valign='top'> 
+				<a href='lesson.php?id=239' target='_blank'>
+				Scale Study #5: Tuning Ocatves 
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 292</td><td valign='top'> 
+				<a href='lesson.php?id=241' target='_blank'>
+				Scale Study #6: &#x22;Karate Chop&#x22;
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 293</td><td valign='top'> 
+				<a href='lesson.php?id=242' target='_blank'>
+				Scale Study #7: Training Up Bow Staccato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 294</td><td valign='top'> 
+				<a href='lesson.php?id=243' target='_blank'>
+				(FREE) Scale Study #8: Fast Fingers
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 295</td><td valign='top'> 
+				<a href='lesson.php?id=244' target='_blank'>
+				Scale Study #9: Hair Pins
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 296</td><td valign='top'> 
+				<a href='lesson.php?id=245' target='_blank'>
+				Scale Study #10:  The Backwards Hair Pin
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 297</td><td valign='top'> 
+				<a href='lesson.php?id=246' target='_blank'>
+				Scale Study #11: Down Bow Circles
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 298</td><td valign='top'> 
+				<a href='lesson.php?id=326' target='_blank'>
+				Scale Study #12: Broad Hooked Bowing Pattern
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 299</td><td valign='top'> 
+				<a href='lesson.php?id=360' target='_blank'>
+				Scale Study #13 Wohlfahrt bowing pattern
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 300</td><td valign='top'> 
+				<a href='lesson.php?id=361' target='_blank'>
+				Scale Study #14 Scallop stroke
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 301</td><td valign='top'> 
+				<a href='lesson.php?id=370' target='_blank'>
+				Scale Study #16 Hug Your Bridge
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 302</td><td valign='top'> 
+				<a href='lesson.php?id=367' target='_blank'>
+				Scale Study #15: Zig-Zag bow stroke
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 303</td><td valign='top'> 
+				<a href='lesson.php?id=372' target='_blank'>
+				Scale Study #17: Slow to Fast Hooked Bows
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 304</td><td valign='top'> 
+				<a href='lesson.php?id=251' target='_blank'>
+				Three Against Two
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 305</td><td valign='top'> 
+				<a href='lesson.php?id=280' target='_blank'>
+				Art of Practicing: part 1: Isolating
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 306</td><td valign='top'> 
+				<a href='lesson.php?id=281' target='_blank'>
+				Art of Practicing: part 2: Zoom In
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 307</td><td valign='top'> 
+				<a href='lesson.php?id=282' target='_blank'>
+				Art of Practicing: part 3: Extreme Conditioning
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 308</td><td valign='top'> 
+				<a href='lesson.php?id=283' target='_blank'>
+				Art of Practicing: part 4: More Extreme Conditioning
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 309</td><td valign='top'> 
+				<a href='lesson.php?id=284' target='_blank'>
+				Art of Practicing: part 5: Changing the Landscape
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 310</td><td valign='top'> 
+				<a href='lesson.php?id=293' target='_blank'>
+				Advanced Tone Production: part 1: Using More Bow (Extremities)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 311</td><td valign='top'> 
+				<a href='lesson.php?id=294' target='_blank'>
+				Advanced Tone Production: part 2: Using More Bow (Point A to B)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 312</td><td valign='top'> 
+				<a href='lesson.php?id=295' target='_blank'>
+				Advanced Tone Production: part 3: Using More Bow (10 percent?)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 313</td><td valign='top'> 
+				<a href='lesson.php?id=296' target='_blank'>
+				Advanced Tone Production: part 4: Using More Bow (Full Breaths)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 314</td><td valign='top'> 
+				<a href='lesson.php?id=351' target='_blank'>
+				Positions: part 1: Overview
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 315</td><td valign='top'> 
+				<a href='lesson.php?id=352' target='_blank'>
+				Positions: part 2 Position Location
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 316</td><td valign='top'> 
+				<a href='lesson.php?id=353' target='_blank'>
+				Positions: part 3  Why Letter Names
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 317</td><td valign='top'> 
+				<a href='lesson.php?id=354' target='_blank'>
+				Positions: part 4: How We Know We Are There
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 318</td><td valign='top'> 
+				<a href='lesson.php?id=355' target='_blank'>
+				Positions: part 5: Finger Spacing Patterns and Exercises
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 319</td><td valign='top'> 
+				<a href='lesson.php?id=356' target='_blank'>
+				Positions: part 6: Interval Spacings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 320</td><td valign='top'> 
+				<a href='lesson.php?id=432' target='_blank'>
+				Positions: part 7:  Left Hand Considerations
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 321</td><td valign='top'> 
+				<a href='lesson.php?id=433' target='_blank'>
+				Positions: part 8:  Finding 3rd Position
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 322</td><td valign='top'> 
+				<a href='lesson.php?id=434' target='_blank'>
+				Positions: part 9:  Exercises for Establishing the 3rd Position Hand Frame
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 323</td><td valign='top'> 
+				<a href='lesson.php?id=435' target='_blank'>
+				Positions: part 10:  Shifting After an Open String
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 324</td><td valign='top'> 
+				<a href='lesson.php?id=436' target='_blank'>
+				Positions: part 11:  Tip for Improving Intonation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 325</td><td valign='top'> 
+				<a href='lesson.php?id=437' target='_blank'>
+				Positions: part 12: More Exercises
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 326</td><td valign='top'> 
+				<a href='lesson.php?id=439' target='_blank'>
+				Positions: part 14: Amazing Grace in 3rd position
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 327</td><td valign='top'> 
+				<a href='lesson.php?id=438' target='_blank'>
+				Positions: part 13: Continuing Your Training
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 328</td><td valign='top'> 
+				<a href='lesson.php?id=357' target='_blank'>
+				Violin and Viola: Difference pt.1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 329</td><td valign='top'> 
+				<a href='lesson.php?id=358' target='_blank'>
+				Violin and Viola: What&#x27;s the difference pt 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 330</td><td valign='top'> 
+				<a href='lesson.php?id=359' target='_blank'>
+				Martele (Marcato) Bow Stroke
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 331</td><td valign='top'> 
+				<a href='lesson.php?id=383' target='_blank'>
+				Harmonics
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 332</td><td valign='top'> 
+				<a href='lesson.php?id=368' target='_blank'>
+				Sad Romance Accompaniment
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 333</td><td valign='top'> 
+				<a href='lesson.php?id=395' target='_blank'>
+				Sad Romance beginning tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 334</td><td valign='top'> 
+				<a href='lesson.php?id=396' target='_blank'>
+				Sad Romance beginning tutorial, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 335</td><td valign='top'> 
+				<a href='lesson.php?id=397' target='_blank'>
+				Expressive Phrasing 101: Basic Requirements part 1 (Bow Distribution)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 336</td><td valign='top'> 
+				<a href='lesson.php?id=398' target='_blank'>
+				Expressive Phrasing 101: Basic Requirements part 2 (consistent bow speed)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 337</td><td valign='top'> 
+				<a href='lesson.php?id=399' target='_blank'>
+				Expressive Phrasing 101: Basic Requirements part 3 (additional comments on bow speed)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 338</td><td valign='top'> 
+				<a href='lesson.php?id=400' target='_blank'>
+				Expressive Phrasing 101: Basic Requirements part 4 (consistent volume)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 339</td><td valign='top'> 
+				<a href='lesson.php?id=401' target='_blank'>
+				Expressive Phrasing 201: Beyond the Dynamics, intro
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 340</td><td valign='top'> 
+				<a href='lesson.php?id=402' target='_blank'>
+				Expressive Phrasing 201: Beyond the Dynamics part 1 (Crescendos and Decrescendos)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 341</td><td valign='top'> 
+				<a href='lesson.php?id=403' target='_blank'>
+				Expressive Phrasing 201: Beyond the Dynamics part 2 (the Taper)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 342</td><td valign='top'> 
+				<a href='lesson.php?id=404' target='_blank'>
+				Expressive Phrasing 201: Beyond the Dynamics part 3 (Training the Taper)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 343</td><td valign='top'> 
+				<a href='lesson.php?id=405' target='_blank'>
+				Expressive Phrasing 201: Beyond the Dynamics part 4 (Adding Emphasis)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 344</td><td valign='top'> 
+				<a href='lesson.php?id=406' target='_blank'>
+				Expressive Phrasing 201: Beyond the Dynamics part 5 (Contouring 1)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 345</td><td valign='top'> 
+				<a href='lesson.php?id=407' target='_blank'>
+				Expressive Phrasing 201: Beyond the Dynamics part 6 (Contouring 2)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 346</td><td valign='top'> 
+				<a href='lesson.php?id=408' target='_blank'>
+				Expressive Phrasing 201: Beyond the Dynamics part 7 Conclusion
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 347</td><td valign='top'> 
+				<a href='lesson.php?id=410' target='_blank'>
+				Trills
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 348</td><td valign='top'> 
+				<a href='lesson.php?id=411' target='_blank'>
+				Practicing with a Drone for Improving Intonation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 349</td><td valign='top'> 
+				<a href='lesson.php?id=412' target='_blank'>
+				Sautill&eacute;  Bow Stroke (difference between sautill&eacute;  and spiccato)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 350</td><td valign='top'> 
+				<a href='lesson.php?id=516' target='_blank'>
+				Sautill&#233; Bow Stroke, Part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 351</td><td valign='top'> 
+				<a href='lesson.php?id=420' target='_blank'>
+				Suzuki Book 2: Lully Gavotte, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 352</td><td valign='top'> 
+				<a href='lesson.php?id=422' target='_blank'>
+				Suzuki Book 2: Boccherini Minuet
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 353</td><td valign='top'> 
+				<a href='lesson.php?id=424' target='_blank'>
+				Scale Rounds:  Explanation and Instructions
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 354</td><td valign='top'> 
+				<a href='lesson.php?id=425' target='_blank'>
+				Scale Rounds:  Explanation and Instructions, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 355</td><td valign='top'> 
+				<a href='lesson.php?id=426' target='_blank'>
+				Finger Spacing Patterns: Preparation for Scale Rounds
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 356</td><td valign='top'> 
+				<a href='lesson.php?id=428' target='_blank'>
+				G Harmonic Minor Scale Round:  Note-By-Note
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 357</td><td valign='top'> 
+				<a href='lesson.php?id=440' target='_blank'>
+				Greensleeves (What Child is This): fingerings (2011)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 358</td><td valign='top'> 
+				<a href='lesson.php?id=441' target='_blank'>
+				Silent Night (fingerings close-up) (2011)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 359</td><td valign='top'> 
+				<a href='lesson.php?id=442' target='_blank'>
+				Deck the Halls (2011)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 360</td><td valign='top'> 
+				<a href='lesson.php?id=444' target='_blank'>
+				When to Use 4th Finger vs. Open String
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 361</td><td valign='top'> 
+				<a href='lesson.php?id=445' target='_blank'>
+				Improving Rhythmic Skills: part 1: Overview
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 362</td><td valign='top'> 
+				<a href='lesson.php?id=446' target='_blank'>
+				Improving Rhythmic Skills: part 2: Exercise for Developing Internal Beat
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 363</td><td valign='top'> 
+				<a href='lesson.php?id=447' target='_blank'>
+				Improving Rhythmic Skills: part 3: Visual Organization
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 364</td><td valign='top'> 
+				<a href='lesson.php?id=448' target='_blank'>
+				Improving Rhythmic Skills: part 4: Score Study
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 365</td><td valign='top'> 
+				<a href='lesson.php?id=449' target='_blank'>
+				Improving Rhythmic Skills: part 5: Daily Drills
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 366</td><td valign='top'> 
+				<a href='lesson.php?id=450' target='_blank'>
+				Improving Rhythmic Skills: part 6: Working with 
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 367</td><td valign='top'> 
+				<a href='lesson.php?id=458' target='_blank'>
+				Superstudies book 1:  #15
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 368</td><td valign='top'> 
+				<a href='lesson.php?id=459' target='_blank'>
+				Superstudies book 1:  #17, 18
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 369</td><td valign='top'> 
+				<a href='lesson.php?id=460' target='_blank'>
+				Superstudies book 1:  #14
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 370</td><td valign='top'> 
+				<a href='lesson.php?id=461' target='_blank'>
+				Red, Red Rose performance with 3rd position shifts
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 371</td><td valign='top'> 
+				<a href='lesson.php?id=462' target='_blank'>
+				Red, Red Rose Close Up Fingerings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 372</td><td valign='top'> 
+				<a href='lesson.php?id=463' target='_blank'>
+				Red, Red Rose Tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 373</td><td valign='top'> 
+				<a href='lesson.php?id=467' target='_blank'>
+				Rhythm App: Rhythm Sight Reading Trainer
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 374</td><td valign='top'> 
+				<a href='lesson.php?id=468' target='_blank'>
+				Intonia: Intonation Improving Software
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 375</td><td valign='top'> 
+				<a href='lesson.php?id=469' target='_blank'>
+				Rhythm: Staying On the Off Beat
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 376</td><td valign='top'> 
+				<a href='lesson.php?id=470' target='_blank'>
+				The Coll&eacute; Bow Stroke: Part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 377</td><td valign='top'> 
+				<a href='lesson.php?id=471' target='_blank'>
+				The Coll&eacute; Bow Stroke: Part 2, Coll&eacute; vs. Finger Motion at the Frog
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 378</td><td valign='top'> 
+				<a href='lesson.php?id=475' target='_blank'>
+				Sautill&eacute; and Seitz Violin Concertos
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 379</td><td valign='top'> 
+				<a href='lesson.php?id=479' target='_blank'>
+				(Workshop 2012) Scaludes by Kristin Turner: part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 380</td><td valign='top'> 
+				<a href='lesson.php?id=480' target='_blank'>
+				(Workshop 2012) Scaludes by Kristin Turner: part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 381</td><td valign='top'> 
+				<a href='lesson.php?id=481' target='_blank'>
+				(Workshop 2012) Vibrato Class by Bill Dick: part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 382</td><td valign='top'> 
+				<a href='lesson.php?id=482' target='_blank'>
+				(Workshop 2012) Vibrato Class by Bill Dick: part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 383</td><td valign='top'> 
+				<a href='lesson.php?id=483' target='_blank'>
+				(Workshop 2012)Literature Survey: Intermediate/Advanced. part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 384</td><td valign='top'> 
+				<a href='lesson.php?id=484' target='_blank'>
+				(Workshop 2012) Literature Survey: Intermediate/Advanced, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 385</td><td valign='top'> 
+				<a href='lesson.php?id=485' target='_blank'>
+				(Workshop 2012)Shifting by Bill Dick: part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 386</td><td valign='top'> 
+				<a href='lesson.php?id=486' target='_blank'>
+				(Workshop 2012) Shifting by Bill Dick: part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 387</td><td valign='top'> 
+				<a href='lesson.php?id=493' target='_blank'>
+				Practice Techniques: Part 1 - Tone and Intonation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 388</td><td valign='top'> 
+				<a href='lesson.php?id=494' target='_blank'>
+				Practice Techniques: Part 2 - Coordination (Varied Bowing Patterns)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 389</td><td valign='top'> 
+				<a href='lesson.php?id=495' target='_blank'>
+				Practice Techniques: Part 3 - Coordination (Accents)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 390</td><td valign='top'> 
+				<a href='lesson.php?id=496' target='_blank'>
+				Practice Techniques: Part 4 - Speed (Rhythm Variations)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 391</td><td valign='top'> 
+				<a href='lesson.php?id=497' target='_blank'>
+				Practice Techniques: Part 5: Speed (Bursts)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 392</td><td valign='top'> 
+				<a href='lesson.php?id=498' target='_blank'>
+				Practice Techniques: Part 6: Fine Tuning
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 393</td><td valign='top'> 
+				<a href='lesson.php?id=499' target='_blank'>
+				Suzuki Book 2: Lully Gavotte performance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 394</td><td valign='top'> 
+				<a href='lesson.php?id=501' target='_blank'>
+				&#x22;Deeply Grow the Roots&#x22;: Advanced tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 395</td><td valign='top'> 
+				<a href='lesson.php?id=507' target='_blank'>
+				Suzuki Book 3: Martini Gavotte part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 396</td><td valign='top'> 
+				<a href='lesson.php?id=509' target='_blank'>
+				Christmas Carols 2012: up close fingerings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 397</td><td valign='top'> 
+				<a href='lesson.php?id=510' target='_blank'>
+				Christmas Carols 2012: tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 398</td><td valign='top'> 
+				<a href='lesson.php?id=443' target='_blank'>
+				Tutorial for Christmas Carols 2011
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 399</td><td valign='top'> 
+				<a href='lesson.php?id=517' target='_blank'>
+				Suzuki Book 3: Humoresque, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 400</td><td valign='top'> 
+				<a href='lesson.php?id=518' target='_blank'>
+				Suzuki Book 3: Humoresque, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 401</td><td valign='top'> 
+				<a href='lesson.php?id=519' target='_blank'>
+				Suzuki Book 3: Humoresque, part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 402</td><td valign='top'> 
+				<a href='lesson.php?id=520' target='_blank'>
+				Suzuki Book 3: Gavotte in D Major, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 403</td><td valign='top'> 
+				<a href='lesson.php?id=521' target='_blank'>
+				Suzuki Book 3: Gavotte in D Major, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 404</td><td valign='top'> 
+				<a href='lesson.php?id=522' target='_blank'>
+				Suzuki Book 3: Bach Bour&eacute;e
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 405</td><td valign='top'> 
+				<a href='lesson.php?id=523' target='_blank'>
+				Suzuki Book 3: Bour&eacute;e, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 406</td><td valign='top'> 
+				<a href='lesson.php?id=583' target='_blank'>
+				Seitz Concerto no. 2 in G, 3rd mvmnt.  (Suzuki Book 4): part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 407</td><td valign='top'> 
+				<a href='lesson.php?id=584' target='_blank'>
+				Seitz Concerto no. 2 in G, 3rd mvmnt.  (Suzuki Book 4): part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 408</td><td valign='top'> 
+				<a href='lesson.php?id=585' target='_blank'>
+				Seitz Concerto no. 2 in G, 3rd mvmnt.  (Suzuki Book 4): part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 409</td><td valign='top'> 
+				<a href='lesson.php?id=586' target='_blank'>
+				Seitz Concerto no. 2 in G, 3rd mvmnt.  (Suzuki Book 4): part 4
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 410</td><td valign='top'> 
+				<a href='lesson.php?id=591' target='_blank'>
+				 Seitz Concerto No. 5 in D major, 1st movement part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 411</td><td valign='top'> 
+				<a href='lesson.php?id=592' target='_blank'>
+				Seitz Concerto No. 5 in D Major, 1st mvmnt. part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 412</td><td valign='top'> 
+				<a href='lesson.php?id=593' target='_blank'>
+				Seitz Concerto No. 5 in D Major, 1st mvmnt. part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 413</td><td valign='top'> 
+				<a href='lesson.php?id=614' target='_blank'>
+				Seitz Concerto #5, 3rd movement: Part 1: Beginning and End
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 414</td><td valign='top'> 
+				<a href='lesson.php?id=506' target='_blank'>
+				Suzuki Book 3: Martini Gavotte part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 415</td><td valign='top'> 
+				<a href='lesson.php?id=615' target='_blank'>
+				Seitz Concerto #5, 3rd movement: Part 2: Double Stops section
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 416</td><td valign='top'> 
+				<a href='lesson.php?id=535' target='_blank'>
+				Vivaldi A Minor Concerto 1st movement: Roy Sonne pt.1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 417</td><td valign='top'> 
+				<a href='lesson.php?id=536' target='_blank'>
+				Vivaldi A Minor Concerto 1st movement: Roy Sonne pt.2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 418</td><td valign='top'> 
+				<a href='lesson.php?id=537' target='_blank'>
+				Vivaldi A Minor Concerto 1st movement: Beth, pt. 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 419</td><td valign='top'> 
+				<a href='lesson.php?id=538' target='_blank'>
+				Vivaldi A Minor Concerto 1st movement: Beth, pt. 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 420</td><td valign='top'> 
+				<a href='lesson.php?id=539' target='_blank'>
+				Vivaldi A Minor Concerto 1st movement: Beth, pt. 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 421</td><td valign='top'> 
+				<a href='lesson.php?id=540' target='_blank'>
+				Vivaldi A Minor Concerto 1st movement: Beth, pt. 4
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 422</td><td valign='top'> 
+				<a href='lesson.php?id=541' target='_blank'>
+				Vivaldi A minor Concerto 2nd movement: Roy Sonne pt.2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 423</td><td valign='top'> 
+				<a href='lesson.php?id=542' target='_blank'>
+				Vivaldi Concerto in A minor 2nd movement by Beth
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 424</td><td valign='top'> 
+				<a href='lesson.php?id=544' target='_blank'>
+				Vivaldi A Minor Concerto 3rd movement: Roy Sonne prt.1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 425</td><td valign='top'> 
+				<a href='lesson.php?id=545' target='_blank'>
+				Vivaldi A Minor Concerto 3rd movement: Roy Sonne prt.2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 426</td><td valign='top'> 
+				<a href='lesson.php?id=546' target='_blank'>
+				Vivaldi A Minor Concerto 3rd movement: Beth Blackerby
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 427</td><td valign='top'> 
+				<a href='lesson.php?id=547' target='_blank'>
+				2 Wohlfahrt Etude op.45 #8
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 428</td><td valign='top'> 
+				<a href='lesson.php?id=543' target='_blank'>
+				1 Wohlfahrt Etude op.45 #1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 429</td><td valign='top'> 
+				<a href='lesson.php?id=548' target='_blank'>
+				3 Wohlfahrt Etude op.45 #3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 430</td><td valign='top'> 
+				<a href='lesson.php?id=549' target='_blank'>
+				Tuning Systems (Pythagorean, Just, Equal Temperament)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 431</td><td valign='top'> 
+				<a href='lesson.php?id=551' target='_blank'>
+				4 Wohlfahrt op.54, no. 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 432</td><td valign='top'> 
+				<a href='lesson.php?id=552' target='_blank'>
+				5 Wohlfahrt Etude op.45 #2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 433</td><td valign='top'> 
+				<a href='lesson.php?id=553' target='_blank'>
+				25 Wohlfahrt Etude op.54 no.10 (The Pinky Buster)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 434</td><td valign='top'> 
+				<a href='lesson.php?id=554' target='_blank'>
+				6 Wohlfahrt Op. 45 no. 4
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 435</td><td valign='top'> 
+				<a href='lesson.php?id=555' target='_blank'>
+				7 Wohlfahrt Op. 45, no.18
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 436</td><td valign='top'> 
+				<a href='lesson.php?id=557' target='_blank'>
+				Wohlfahrt Etude #10 op.45 #7
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 437</td><td valign='top'> 
+				<a href='lesson.php?id=558' target='_blank'>
+				Wohlfahrt Etude #11 op.54 #6
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 438</td><td valign='top'> 
+				<a href='lesson.php?id=561' target='_blank'>
+				Wohlfahrt Etude #13 op.45 #16
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 439</td><td valign='top'> 
+				<a href='lesson.php?id=563' target='_blank'>
+				Wohlfahrt Etude #17 op.54 nos. 9 and 8
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 440</td><td valign='top'> 
+				<a href='lesson.php?id=564' target='_blank'>
+				Wohlfahrt Etude #40, op. 45 no. 20
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 441</td><td valign='top'> 
+				<a href='lesson.php?id=565' target='_blank'>
+				Wohlfahrt Etude #19, op. 74 no. 6
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 442</td><td valign='top'> 
+				<a href='lesson.php?id=566' target='_blank'>
+				Wohlfahrt Etude #21, op.54 no. 12
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 443</td><td valign='top'> 
+				<a href='lesson.php?id=567' target='_blank'>
+				Wohlfahrt Etude #38, op.45 #12
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 444</td><td valign='top'> 
+				<a href='lesson.php?id=568' target='_blank'>
+				Left Hand: Contact, Balance, Vibrato part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 445</td><td valign='top'> 
+				<a href='lesson.php?id=569' target='_blank'>
+				Left Hand: Contact, Balance, Vibrato part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 446</td><td valign='top'> 
+				<a href='lesson.php?id=570' target='_blank'>
+				Left Hand: Contact, Balance, Vibrato part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 447</td><td valign='top'> 
+				<a href='lesson.php?id=571' target='_blank'>
+				Wohlfahrt Etude #16, op.45 #9
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 448</td><td valign='top'> 
+				<a href='lesson.php?id=573' target='_blank'>
+				Up Bow Staccato: via Kreutzer Etude #4
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 449</td><td valign='top'> 
+				<a href='lesson.php?id=574' target='_blank'>
+				Spiccato Styles: broad and brushy vs. light and delicate
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 450</td><td valign='top'> 
+				<a href='lesson.php?id=575' target='_blank'>
+				Zombie Caprice Music Video
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 451</td><td valign='top'> 
+				<a href='lesson.php?id=576' target='_blank'>
+				Zombie Caprice Tutorial
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 452</td><td valign='top'> 
+				<a href='lesson.php?id=578' target='_blank'>
+				Clean Up Your Playing (Behind the Scenes) part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 453</td><td valign='top'> 
+				<a href='lesson.php?id=579' target='_blank'>
+				Clean Up Your Playing (Behind the Scenes) part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 454</td><td valign='top'> 
+				<a href='lesson.php?id=581' target='_blank'>
+				Clean Up Your Playing (Behind the Scenes) part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 455</td><td valign='top'> 
+				<a href='lesson.php?id=582' target='_blank'>
+				Clean Up Your Playing (Behind the Scenes) part 4
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 456</td><td valign='top'> 
+				<a href='lesson.php?id=587' target='_blank'>
+				Tremolo
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 457</td><td valign='top'> 
+				<a href='lesson.php?id=137' target='_blank'>
+				Dr. Stephen Redfield: Vibrato Interview: Good Vs.Bad
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 458</td><td valign='top'> 
+				<a href='lesson.php?id=138' target='_blank'>
+				Dr. Stephen Redfield: Vibrato Interview: part 2 Styles of Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 459</td><td valign='top'> 
+				<a href='lesson.php?id=139' target='_blank'>
+				Dr. Stephen Redfield: Learning Vibrato: Step 1 Identifying the Motion
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 460</td><td valign='top'> 
+				<a href='lesson.php?id=140' target='_blank'>
+				Dr. Stephen Redfield: Learning Vibrato: Step 2 &#x22;Points of Contact&#x22;
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 461</td><td valign='top'> 
+				<a href='lesson.php?id=141' target='_blank'>
+				Dr. Stephen Redfield: Learning Vibrato: Step 3 &#x22;the Paper Trick&#x22;
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 462</td><td valign='top'> 
+				<a href='lesson.php?id=142' target='_blank'>
+				Dr. Stephen Redfield: Learning Vibrato: Step 4 &#x22;Integrating&#x22;
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 463</td><td valign='top'> 
+				<a href='lesson.php?id=143' target='_blank'>
+				Dr. Stephen Redfield: Learning Vibrato: Step 5 &#x22;Control&#x22;
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 464</td><td valign='top'> 
+				<a href='lesson.php?id=144' target='_blank'>
+				Dr. Stephen Redfield: Expressive Qualities of Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 465</td><td valign='top'> 
+				<a href='lesson.php?id=146' target='_blank'>
+				 Dr. Stephen Redfield, part 2: Musicality and Expression
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 466</td><td valign='top'> 
+				<a href='lesson.php?id=145' target='_blank'>
+				(FREE) Dr. Stephen Redfield: Establishing Personal Voice
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 467</td><td valign='top'> 
+				<a href='lesson.php?id=147' target='_blank'>
+				Dr. Stephen Redfield, part 3: Varying Bow Speed
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 468</td><td valign='top'> 
+				<a href='lesson.php?id=149' target='_blank'>
+				Dr. Stephen Redfield, part 5: Varying Sounding Point
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 469</td><td valign='top'> 
+				<a href='lesson.php?id=150' target='_blank'>
+				Dr. Stephen Redfield, part 6: Finger Motion
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 470</td><td valign='top'> 
+				<a href='lesson.php?id=151' target='_blank'>
+				Dr. Stephen Redfield, part 7: Cole Bow Stroke
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 471</td><td valign='top'> 
+				<a href='lesson.php?id=148' target='_blank'>
+				Dr. Stephen Redfield, part 4: Importance of Etudes
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 472</td><td valign='top'> 
+				<a href='lesson.php?id=152' target='_blank'>
+				Dr. Stephen Redfield, part 8: Bow Pressure
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 473</td><td valign='top'> 
+				<a href='lesson.php?id=153' target='_blank'>
+				Dr. Stephen Redfield, part 9: Bow Angle
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 474</td><td valign='top'> 
+				<a href='lesson.php?id=154' target='_blank'>
+				Dr. Kirsten Yon: Part 1 - The Relaxed Left Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 475</td><td valign='top'> 
+				<a href='lesson.php?id=155' target='_blank'>
+				(FREE) Dr. Kirsten Yon: Part 2 - The Relaxed Left Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 476</td><td valign='top'> 
+				<a href='lesson.php?id=156' target='_blank'>
+				Dr. Kirsten Yon: Part 3 - Drop and Release Finger Action
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 477</td><td valign='top'> 
+				<a href='lesson.php?id=157' target='_blank'>
+				Dr. Kirsten Yon: Part 4 - Feeling of Release in Practice
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 478</td><td valign='top'> 
+				<a href='lesson.php?id=158' target='_blank'>
+				Dr. Kirsten Yon: Part 5 - Expunging Tension in the Bow Arm
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 479</td><td valign='top'> 
+				<a href='lesson.php?id=159' target='_blank'>
+				Dr. Kirsten Yon: part 6- Learning Finger Motion for Legato Bow Strokes
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 480</td><td valign='top'> 
+				<a href='lesson.php?id=160' target='_blank'>
+				Dr. Kirsten Yon: part 7- Learning Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 481</td><td valign='top'> 
+				<a href='lesson.php?id=223' target='_blank'>
+				Dr. Kirsten Yon: Part 8: Tuning Conscience
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 482</td><td valign='top'> 
+				<a href='lesson.php?id=222' target='_blank'>
+				Dr. Kirsten Yon: Part 9, Physiology of Intonation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 483</td><td valign='top'> 
+				<a href='lesson.php?id=161' target='_blank'>
+				(FREE) Dr. Laurie Scott, part 1: Getting Comfortable Holding the Violin
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 484</td><td valign='top'> 
+				<a href='lesson.php?id=297' target='_blank'>
+				Dr. Colleen McCullough: part 1: Classical Style and Mozart
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 485</td><td valign='top'> 
+				<a href='lesson.php?id=298' target='_blank'>
+				Dr. Colleen McCullough: part 2: Practicing Shifts
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 486</td><td valign='top'> 
+				<a href='lesson.php?id=299' target='_blank'>
+				Dr. Colleen McCullough: part 3: Practicing Musicality
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 487</td><td valign='top'> 
+				<a href='lesson.php?id=300' target='_blank'>
+				Dr. Colleen McCullough: part 4: Technical Maintainance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 488</td><td valign='top'> 
+				<a href='lesson.php?id=301' target='_blank'>
+				Dr. Colleen McCullough: part 5: Attending to Set Up for Good Intonation and Shifting
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 489</td><td valign='top'> 
+				<a href='lesson.php?id=302' target='_blank'>
+				Dr. Colleen McCullough: part 6: Varying Vibrato Speed
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 490</td><td valign='top'> 
+				<a href='lesson.php?id=162' target='_blank'>
+				Dr. Laurie Scott, part 2: Preparing to Shift
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 491</td><td valign='top'> 
+				<a href='lesson.php?id=163' target='_blank'>
+				(FREE) Dr. Laurie Scott, part 3: Left Hand Thumb Placement
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 492</td><td valign='top'> 
+				<a href='lesson.php?id=164' target='_blank'>
+				Dr. Laurie Scott, part 4: Walking Fingers
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 493</td><td valign='top'> 
+				<a href='lesson.php?id=165' target='_blank'>
+				Dr. Laurie Scott, part 5: Smooth String Crossings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 494</td><td valign='top'> 
+				<a href='lesson.php?id=166' target='_blank'>
+				Dr. Laurie Scott, part 6: Finger Independence
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 495</td><td valign='top'> 
+				<a href='lesson.php?id=167' target='_blank'>
+				Dr. Laurie Scott, part 7: Changing Finger Spacing Pattern
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 496</td><td valign='top'> 
+				<a href='lesson.php?id=168' target='_blank'>
+				Dr. Laurie Scott, part 8: Coordination and Bowing
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 497</td><td valign='top'> 
+				<a href='lesson.php?id=169' target='_blank'>
+				Dr. Laurie Scott, part 9: Training Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 498</td><td valign='top'> 
+				<a href='lesson.php?id=170' target='_blank'>
+				Dr. Laurie Scott, part 10: Practice Time
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 499</td><td valign='top'> 
+				<a href='lesson.php?id=171' target='_blank'>
+				Dr. Paula Bird, part 1: Awareness of Tone I
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 500</td><td valign='top'> 
+				<a href='lesson.php?id=172' target='_blank'>
+				Dr. Paula Bird, part 2: Awareness of Tone II
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 501</td><td valign='top'> 
+				<a href='lesson.php?id=173' target='_blank'>
+				Dr. Paula Bird, part 3: Awareness of Tone III
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 502</td><td valign='top'> 
+				<a href='lesson.php?id=174' target='_blank'>
+				Dr. Paula Bird, part 4: Maintaining Relaxed Bow Hold
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 503</td><td valign='top'> 
+				<a href='lesson.php?id=175' target='_blank'>
+				Dr. Paula Bird, part 5: Maintaining a Relaxed Bow Arm
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 504</td><td valign='top'> 
+				<a href='lesson.php?id=176' target='_blank'>
+				Dr. Paula Bird, part 6: Developing Intonation I
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 505</td><td valign='top'> 
+				<a href='lesson.php?id=177' target='_blank'>
+				Dr. Paula Bird, part 7: Intonation II
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 506</td><td valign='top'> 
+				<a href='lesson.php?id=178' target='_blank'>
+				Dr. Paula Bird, part 8: Learning Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 507</td><td valign='top'> 
+				<a href='lesson.php?id=179' target='_blank'>
+				Dr. Paula Bird, part 9: Vibrato Rounds
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 508</td><td valign='top'> 
+				<a href='lesson.php?id=180' target='_blank'>
+				Dr. Paula Bird, part 10: Wrist vs Arm Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 509</td><td valign='top'> 
+				<a href='lesson.php?id=181' target='_blank'>
+				Dr. Paula Bird, part 11: Practice Tip - Make a Plan
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 510</td><td valign='top'> 
+				<a href='lesson.php?id=182' target='_blank'>
+				Dr. Paula Bird, part 12: Practice Tip - Rubber Band Analogy
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 511</td><td valign='top'> 
+				<a href='lesson.php?id=183' target='_blank'>
+				Elise Winters: Bow Weight and Tone Production
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 512</td><td valign='top'> 
+				<a href='lesson.php?id=184' target='_blank'>
+				Elise Winters, part 2: Maximizing Tone and the Bow Hold
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 513</td><td valign='top'> 
+				<a href='lesson.php?id=185' target='_blank'>
+				Elise Winters, part 3: Maintaining Relaxed Bow Hold
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 514</td><td valign='top'> 
+				<a href='lesson.php?id=186' target='_blank'>
+				Elise Winters, part 5: Triplet Boomerang
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 515</td><td valign='top'> 
+				<a href='lesson.php?id=187' target='_blank'>
+				Elise Winters, part 4: Spiccato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 516</td><td valign='top'> 
+				<a href='lesson.php?id=260' target='_blank'>
+				Elise Winters, part 6: Finding Ring Tones
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 517</td><td valign='top'> 
+				<a href='lesson.php?id=261' target='_blank'>
+				Elise Winters, part 7: Contextual Tones
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 518</td><td valign='top'> 
+				<a href='lesson.php?id=188' target='_blank'>
+				Martha Carapetyan, part 1: Increasing Comfort Holding the Violin
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 519</td><td valign='top'> 
+				<a href='lesson.php?id=189' target='_blank'>
+				Martha Carapetyan, part 2: Increasing Comfort Holding the Violin
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 520</td><td valign='top'> 
+				<a href='lesson.php?id=270' target='_blank'>
+				Jessica Matheas: Warming Up with Kreutzer
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 521</td><td valign='top'> 
+				<a href='lesson.php?id=272' target='_blank'>
+				Jessica Matheas: Franco-Belgian Bow Arm
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 522</td><td valign='top'> 
+				<a href='lesson.php?id=191' target='_blank'>
+				Dr. Glen Leupnitz: Why Learning Violin as an Adullt is Essential to Brain Health
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 523</td><td valign='top'> 
+				<a href='lesson.php?id=192' target='_blank'>
+				Daniela Shtereva Interview, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 524</td><td valign='top'> 
+				<a href='lesson.php?id=259' target='_blank'>
+				Daniela Shtereva Interview, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 525</td><td valign='top'> 
+				<a href='lesson.php?id=127' target='_blank'>
+				Dan Kobialka: part 1: Movement and Playing
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 526</td><td valign='top'> 
+				<a href='lesson.php?id=128' target='_blank'>
+				Dan Kobialka: part 2: Finger Motion Exercise
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 527</td><td valign='top'> 
+				<a href='lesson.php?id=129' target='_blank'>
+				Dan Kobialka: part 3: Spiccato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 528</td><td valign='top'> 
+				<a href='lesson.php?id=130' target='_blank'>
+				Dan Kobialka: part 4: Finger Release
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 529</td><td valign='top'> 
+				<a href='lesson.php?id=131' target='_blank'>
+				Dan Kobialka: part 5: Teaching Technique for Setting Up the Left Hand
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 530</td><td valign='top'> 
+				<a href='lesson.php?id=132' target='_blank'>
+				Dan Kobialka: part 6: Thumb Angle
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 531</td><td valign='top'> 
+				<a href='lesson.php?id=133' target='_blank'>
+				(FREE) Dan Kobialka: part 7: Spacial Awareness and Intonation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 532</td><td valign='top'> 
+				<a href='lesson.php?id=134' target='_blank'>
+				Dan Kobialka: part 8: Foundation Fingers
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 533</td><td valign='top'> 
+				<a href='lesson.php?id=135' target='_blank'>
+				Dan Kobialka: part 9: Vibrato Motion Exercise
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 534</td><td valign='top'> 
+				<a href='lesson.php?id=136' target='_blank'>
+				Dan Kobialka: part 10: Descending Shifts
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 535</td><td valign='top'> 
+				<a href='lesson.php?id=303' target='_blank'>
+				Dr. Colleen McCullough: part 7: Learning Vibrato
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 536</td><td valign='top'> 
+				<a href='lesson.php?id=304' target='_blank'>
+				Dr. Colleen McCullough: part 8: Mystical Intonation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 537</td><td valign='top'> 
+				<a href='lesson.php?id=305' target='_blank'>
+				Dr. Colleen McCullough: part 9: Invaluable Lesson of Recording Yourself
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 538</td><td valign='top'> 
+				<a href='lesson.php?id=604' target='_blank'>
+				Preliminary Shifting Exercise: part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 539</td><td valign='top'> 
+				<a href='lesson.php?id=605' target='_blank'>
+				Preliminary Shifting Exercise: part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 540</td><td valign='top'> 
+				<a href='lesson.php?id=606' target='_blank'>
+				Air Galicien
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 541</td><td valign='top'> 
+				<a href='lesson.php?id=607' target='_blank'>
+				Schindler&#x27;s list: part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 542</td><td valign='top'> 
+				<a href='lesson.php?id=608' target='_blank'>
+				Schindlers List: part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 543</td><td valign='top'> 
+				<a href='lesson.php?id=609' target='_blank'>
+				Schindlers List: Part 3
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 544</td><td valign='top'> 
+				<a href='lesson.php?id=610' target='_blank'>
+				Flat Keys: part 1:  Overview
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 545</td><td valign='top'> 
+				<a href='lesson.php?id=611' target='_blank'>
+				Flat Keys part 2: F, B flat, E flat, A flat Scales
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 546</td><td valign='top'> 
+				<a href='lesson.php?id=616' target='_blank'>
+				Artful Bow Placement, part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 547</td><td valign='top'> 
+				<a href='lesson.php?id=619' target='_blank'>
+				Artful Bow Placement, part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 548</td><td valign='top'> 
+				<a href='lesson.php?id=623' target='_blank'>
+				Bach Double Violin Concerto: 2nd violin part, part 1 (Style)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 549</td><td valign='top'> 
+				<a href='lesson.php?id=624' target='_blank'>
+				Bach Double Tutorial part 3 (Phrasing)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 550</td><td valign='top'> 
+				<a href='lesson.php?id=625' target='_blank'>
+				Bach Double Violin Concerto: Part 2 (Left Hand)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 551</td><td valign='top'> 
+				<a href='lesson.php?id=626' target='_blank'>
+				Big Motions/Slow Actions-Small Motions/Quick Actions
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 552</td><td valign='top'> 
+				<a href='lesson.php?id=628' target='_blank'>
+				Controlling Your Spiccato (video response)
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 553</td><td valign='top'> 
+				<a href='lesson.php?id=629' target='_blank'>
+				Stages of Learning a Piece of Music
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 554</td><td valign='top'> 
+				<a href='lesson.php?id=630' target='_blank'>
+				Liebesleid by Fritz Kreisler - part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 555</td><td valign='top'> 
+				<a href='lesson.php?id=631' target='_blank'>
+				Liebesleid by Fritz Kreisler - part 2: Advanced Fingerings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 556</td><td valign='top'> 
+				<a href='lesson.php?id=632' target='_blank'>
+				Liebesleid by Fritz Kreisler - part 2: Simplified Fingerings
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 557</td><td valign='top'> 
+				<a href='lesson.php?id=633' target='_blank'>
+				Summary for Kinesthetic Intonation Class
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 558</td><td valign='top'> 
+				<a href='lesson.php?id=634' target='_blank'>
+				Pachelbel Canon in D: Part 1
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 559</td><td valign='top'> 
+				<a href='lesson.php?id=635' target='_blank'>
+				Pachelbel Canon in D: part 2
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 560</td><td valign='top'> 
+				<a href='lesson.php?id=637' target='_blank'>
+				Oskar Rieding Violin Concerto #2 Op.35:  3rd movement
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 561</td><td valign='top'> 
+				<a href='lesson.php?id=638' target='_blank'>
+				Oskar Rieding Violin Concerto #2 opus 35, 1st movement
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 562</td><td valign='top'> 
+				<a href='lesson.php?id=639' target='_blank'>
+				Geringas: Up and Down the Ladder
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 563</td><td valign='top'> 
+				<a href='lesson.php?id=640' target='_blank'>
+				Geringas: Gym
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 564</td><td valign='top'> 
+				<a href='lesson.php?id=641' target='_blank'>
+				Geringas: Round Dance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 565</td><td valign='top'> 
+				<a href='lesson.php?id=642' target='_blank'>
+				Geringas: Cradle Song
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 566</td><td valign='top'> 
+				<a href='lesson.php?id=643' target='_blank'>
+				Geringas: King Counter
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 567</td><td valign='top'> 
+				<a href='lesson.php?id=644' target='_blank'>
+				Geringas: The First Skating Lesson
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 568</td><td valign='top'> 
+				<a href='lesson.php?id=645' target='_blank'>
+				Wohlfahrt Op. #45, no. 14
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 569</td><td valign='top'> 
+				<a href='lesson.php?id=646' target='_blank'>
+				Geringas: Playing Ball
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 570</td><td valign='top'> 
+				<a href='lesson.php?id=647' target='_blank'>
+				Practicing Josephine Trott Double Stop Exercises
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 571</td><td valign='top'> 
+				<a href='lesson.php?id=648' target='_blank'>
+				Thirds: part 1 Hand Shape
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 572</td><td valign='top'> 
+				<a href='lesson.php?id=649' target='_blank'>
+				Thirds: part 2 Intonation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 573</td><td valign='top'> 
+				<a href='lesson.php?id=650' target='_blank'>
+				Thirds: part 3 G scale in thirds
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 574</td><td valign='top'> 
+				<a href='lesson.php?id=651' target='_blank'>
+				Geringas: Aim and Shoot
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 575</td><td valign='top'> 
+				<a href='lesson.php?id=652' target='_blank'>
+				Geringas: Grasshopper
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 576</td><td valign='top'> 
+				<a href='lesson.php?id=653' target='_blank'>
+				Geringas: Tag
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 577</td><td valign='top'> 
+				<a href='lesson.php?id=654' target='_blank'>
+				Geringas: Old Dance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 578</td><td valign='top'> 
+				<a href='lesson.php?id=656' target='_blank'>
+				Geringas: A Big Step over a Puddle
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 579</td><td valign='top'> 
+				<a href='lesson.php?id=657' target='_blank'>
+				Geringas: Hop Scotch
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 580</td><td valign='top'> 
+				<a href='lesson.php?id=658' target='_blank'>
+				Geringas: Country Dance
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 581</td><td valign='top'> 
+				<a href='lesson.php?id=659' target='_blank'>
+				Geringas: Song
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 582</td><td valign='top'> 
+				<a href='lesson.php?id=660' target='_blank'>
+				Geringas: Sadness
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 583</td><td valign='top'> 
+				<a href='lesson.php?id=661' target='_blank'>
+				Geringas: Agitation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 584</td><td valign='top'> 
+				<a href='lesson.php?id=662' target='_blank'>
+				Geringas: March
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 585</td><td valign='top'> 
+				<a href='lesson.php?id=663' target='_blank'>
+				Geringas: A Pleasant Day
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 586</td><td valign='top'> 
+				<a href='lesson.php?id=664' target='_blank'>
+				Geringas: Lost in the Woods
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 587</td><td valign='top'> 
+				<a href='lesson.php?id=665' target='_blank'>
+				Geringas: Ballet Variation
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 588</td><td valign='top'> 
+				<a href='lesson.php?id=666' target='_blank'>
+				Geringas: Melancholic Waltz
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 589</td><td valign='top'> 
+				<a href='lesson.php?id=667' target='_blank'>
+				Geringas: Scherzino
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 590</td><td valign='top'> 
+				<a href='lesson.php?id=668' target='_blank'>
+				Workshop 2016 concert: Fiddle Ensemble
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 591</td><td valign='top'> 
+				<a href='lesson.php?id=669' target='_blank'>
+				Workshop 2016 Concert: Telemann Ensemble
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 592</td><td valign='top'> 
+				<a href='lesson.php?id=670' target='_blank'>
+				Workshop 2016 concert: Full Ensemble
+				</a>
+			</td></tr><tr><td valign='top' width='50'> 593</td><td valign='top'> 
+				<a href='lesson.php?id=671' target='_blank'>
+				Chords
+				</a>
+			</td></tr></table>
+				</div>
+			</td>
+		</tr>
+	
+	</table>
+</div>
+
+<big>Topics & Tag Words</big>
+<br>
+<hr>
+ 
+<table> 
+	<tr>
+	<td valign='top' style='padding-bottom: 30px; padding-right: 20px;'>
+			 <br>A  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='163'> Accents </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='165'> Accuracy </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='166'> Arm Levels </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='167'> Arm Vibrato </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='180'> Articulation </a></div>
+</div> <br>B  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='181'> Block Fingerings </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='182'> Body Movement </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='183'> Bow Arm </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='184'> Bow Control </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='188'> Bow Distribution </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='266'> Bow Hold </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='189'> Bow Placement </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='190'> Bow Pressure </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='191'> Bow Speed </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='274'> Bow tilt </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='192'> Bow Weight </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='279'> Bowing Patterns </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='195'> Bowing Straight </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='193'> Bowing: Playing at Frog </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='194'> Bowing: Playing at Tip </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='187'> Broken Thirds </a></div>
+</div></td> <td valign='top' style='padding-bottom: 30px; padding-right: 20px;'> <br>C  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='293'> Chords </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='197'> Christmas Carols </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='288'> Chromaticism </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='185'> Classical Shift </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='198'> Classical Shift </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='199'> Collé </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='248'> Contact Point </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='200'> Coordination: left and right together </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='201'> Coordination: left hand </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='202'> Coordination: right hand </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='203'> Crossing Strings </a></div>
+</div> <br>D  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='170'> Detaché </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='238'> Double Stops </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='169'> Drones </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='204'> Dynamics </a></div>
+</div> <br>E  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='290'> Efficiency </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='271'> Elbow Levels (Right Arm) </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='273'> Elbow Movement </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='206'> Electronic Tuner </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='207'> Equal Temperament </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='175'> Etudes </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='174'> Expression </a></div>
+</div> <br>F  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='283'> Fast Bow Strokes </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='176'> Fine Tuners </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='177'> Finger Action </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='216'> Finger Independence </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='208'> Finger Motion of the Right Hand </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='209'> Finger Placement </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='287'> Finger Preparation </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='210'> Finger Pressure </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='211'> Finger Shape </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='212'> Finger Spacing </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='213'> Finger Spacing Patterns </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='286'> Fourth Finger </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='214'> Frog </a></div>
+</div></td> <td valign='top' style='padding-bottom: 30px; padding-right: 20px;'> <br>G  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='215'> Guide Tapes </a></div>
+</div> <br>H  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='278'> Hand Frame </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='178'> Harmonics </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='179'> Hooked Bowings </a></div>
+</div> <br>I  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='218'> Independence of Fingers </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='217'> Independence of Left and Right Hands </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='196'> Instrument Care </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='219'> Instrument Set Up </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='172'> Intonation </a></div>
+</div> <br>J  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='220'> Just Tuning </a></div>
+</div> <br>K  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='221'> Kreutzer </a></div>
+</div> <br>L  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='161'> Left Hand </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='222'> Left Hand Placement </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='223'> Left Hand Squeezing </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='224'> Left Thumb </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='227'> Legato Bowing </a></div>
+</div> <br>M  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='228'> Marcato </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='229'> Martelé </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='230'> Metronome </a></div>
+</div> <br>N  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='231'> Note Names </a></div>
+</div> <br>O  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='232'> Octaves </a></div>
+</div></td> <td valign='top' style='padding-bottom: 30px; padding-right: 20px;'> <br>P  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='233'> Pegs </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='285'> Phrasing </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='269'> Pinky </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='234'> Pizzicato </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='235'> Positions </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='236'> Posture </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='237'> Postures </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='168'> Practicing </a></div>
+</div> <br>R  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='239'> Relaxation </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='240'> Retakes </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='241'> Rhythmic Training </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='162'> Right Hand </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='242'> Rosin </a></div>
+</div> <br>S  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='171'> Sautillé </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='243'> Scales and arpeggios </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='244'> Shifting </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='245'> Shoulder Pads </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='246'> Slurs </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='247'> Sounding Point </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='249'> Spiccato </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='250'> Squeezing of Left Hand </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='251'> Staccato </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='272'> Straight Bow </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='205'> String Crossings </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='252'> Suzuki Book 1 </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='253'> Suzuki Book 2 </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='254'> Suzuki Book 3 </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='255'> Suzuki Book 4 </a></div>
+</div></td> <td valign='top' style='padding-bottom: 30px; padding-right: 20px;'> <br>T  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='284'> Taper </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='267'> Tapes </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='256'> Tension </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='257'> Tension: Left Hand </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='258'> Tension: Right Hand </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='291'> Thirds </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='225'> Thumb: Left </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='226'> Thumb: Right </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='282'> Tip (of Bow) </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='268'> Tone </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='289'> Tremolo </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='280'> Trills </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='173'> Tuning </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='259'> Tuning Systems </a></div>
+</div> <br>U  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='261'> Up Bow Staccato </a></div>
+</div> <br>V  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='164'> Vibrato </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='265'> Violin Hold </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='277'> Violin Lab Repertoire: Advanced </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='275'> Violin Lab Repertoire: Beginning </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='276'> Violin Lab Repertoire: Intermediate </a></div>
+</div> <br>W  <div style='padding: 5px 0 0 0;'><div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='262'> Warm up </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='263'> Whole Bow Stroke </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='270'> Wrist (Right Arm) </a></div>
+<div style='text-indent: -10px; padding-bottom: 3px;'><a href='javascript:void(0);' class='set-tag-words' dir='264'> Wrist Vibrato </a></div>
+</div>
+		</td>
+ 	</tr> 
+</table>
+<br>
+<br>
+<br>
+
+<style>
+	.main-category {
+
+		font-size: 20px;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		font-weight: 100;
+	}
+
+	.sub-category {
+
+		padding: 5px 0 0 10px;
+		display: none;
+		font-size: 15px;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		cursor: pointer;
+	}
+
+	.sub-sub-menu {
+
+		padding: 1px 0 10px 10px;
+		font-size: 15px;
+		display: none;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		cursor: pointer;
+	}
+
+	.sub-menu {
+
+		padding-bottom: 3px;
+	}
+
+</style>
+
+<script>
+	$('.main-category').click(function() {
+
+		var getId = $(this).attr('dir');
+
+		$('.sub-category').slideUp(200);
+
+		if ($('#sub-category-' + getId).is(":visible"))
+			$('#sub-category-' + getId).slideUp();
+		else
+			$('#sub-category-' + getId).delay(200).slideDown(200);
+		
+		var request = $.ajax({
+
+			type : 'POST',
+			url : 'ajaxCategory.php',
+			data : {
+				category : getId
+			}
+		});
+
+		request.done(function(msg) {
+
+			$('#lesson-panel').html(msg);
+
+		});
+		
+	});
+
+	$('.sub-menu').click(function() {
+
+		var getId = $(this).attr('dir');
+
+		$('.sub-sub-menu').slideUp(200);
+
+		if ($('#sub-sub-menu-' + getId).is(":visible"))
+			$('#sub-sub-menu-' + getId).slideUp();
+		else
+			$('#sub-sub-menu-' + getId).delay(200).slideDown(200);
+			
+			
+		var request = $.ajax({
+
+			type : 'POST',
+			url : 'ajaxBranch.php',
+			data : {
+				branch : getId
+			}
+		});
+
+		request.done(function(msg) {
+
+			$('#lesson-panel').html(msg);
+
+		});
+		
+			
+	});
+
+	$('.select-lessons').click(function() {
+
+		var getCategory = $(this).attr('category');
+		var getTwig = $(this).attr('twig');
+		//$('.lesson').hide();
+
+		var request = $.ajax({
+
+			type : 'POST',
+			url : 'ajaxLessons.php',
+			data : {
+				twig : getTwig
+			}
+		});
+
+		request.done(function(msg) {
+
+			$('#lesson-panel').html(msg);
+
+		});
+
+
+	});
+
+	$('.set-tag-words').click(function() {
+
+		var getTag = $(this).attr('dir');
+		
+		var request = $.ajax({
+
+			type : 'POST',
+			url : 'ajaxLessonsTag.php',
+			data : {
+				tag : getTag
+			}
+		});
+
+		request.done(function(msg) {
+			
+			$('#lesson-panel').html(msg);
+
+		});
+		
+		window.scrollTo(0,0);
+
+	});
+
+	$('.que-lesson').live('click', function() {
+
+		//alert('working');
+
+		var getLesson = $(this).val();
+		var getQuery = "delete";
+
+		if ($(this).is(':checked'))
+			getQuery = "insert";
+
+		var request = $.ajax({
+
+			type : 'POST',
+			url : 'ajaxQue.php',
+			data : {
+				lesson : getLesson,
+				query : getQuery
+			}
+		});
+
+		request.done(function(msg) {
+			
+			//alert(msg);
+
+			if (msg == "success") {
+				// do nothing
+			} else {
+
+				alert(msg);
+
+			}
+
+		});
+
+	});
+
+</script>
+
+
+
+		
+		<!-- end of content -->
+
+          
+            
+        </div>
+     </div>
+      <div id="footer">
+      
+		<div id='footer-container'>
+			<table>
+				<tr>
+					<td valign='top'>
+						
+
+<table>
+	<tr>
+		<td valign='top'>
+			<a href="http://violinlab.com/videoLibrary">Video Lessons Library</a><br>
+			<a href="http://violinlab.com/Community">Community</a><br>
+			<a href="http://violinlab.com/About">About Us</a>
+				<div style='padding-left: 20px; padding-bottom: 5px;'>
+					<a href="http://violinlab.com/Contact">Contact</a><br>
+					<a href="http://violinlab.com/Testimonial">Testimonials</a>
+				</div>
+				<a href="http://violinlab.com/Resources">Resources</a><br>
+			<a href="http://violinlab.com/Members/SignUp/"><b>Join Us</b></a>
+		</td>
+		
+	</tr>
+</table>
+
+		
+
+					</td>
+					<td valign='top' style='padding-left: 70px;'>
+				      		Copyright &copy; 2010 - 2017 All Rights Reserved
+				            <i><a href='http://www.tedwebdesign.com' target='_blank'><br/>webdesign by: tedwebdesign.com</a></i>
+					 </td>
+					 <td valign='top' style='padding-left: 50px;'>
+					 	<div id='social-media-side-bar'>
+	<!-- Place this tag in your head or just before your close body tag. -->
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
+	
+	
+	<!-- FACEBOOK LIKE BUTTON -->
+	<table border='0'>
+		<tr>
+			<td>
+				<div class="fb-like" data-width='200' data-href="http://violinlab.com/videoLibrary/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+			</td>
+			<td style='padding-top: 20px;'>
+				<!-- GOOGLE LIKE BUTTON -->
+				<!-- Place this tag where you want the share button to render. -->
+				<div class="g-plus" data-action="share"  data-annotation="bubble" data-height="50"></div>
+			</td>
+			<td>
+				<!-- TWITTER LIKE BUTTON -->
+				<a href="https://twitter.com/share" data-count="horizontal"  class="twitter-share-button" >Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</td>
+			<td>	
+				<!-- TWITTER LIKE BUTTON -->
+				<script src='//platform.linkedin.com/in.js' type='text/javascript'> lang: en_US</script>
+				<script type='IN/Share' data-counter='right'></script>
+			</td>
+		</tr>
+	</table>
+	</div>
+					 </td>
+				   </tr>
+				</table>
+		</div>
+	</div>
+</div>
+
+<div id='menu-bar'>
+<div id="menuContainer">
+
+<ul id="navigation" class="vertical">
+
+	<li><a href="http://violinlab.com/"><img src='http://violinlab.com/skin/images/home-icon.png'></a></li>
+	<li><a href="http://violinlab.com/videoLibrary">Video Lessons Library</a></li>
+	<li><a href="http://violinlab.com/Community">Community</a></li>
+	<li><a href="http://violinlab.com/About">About Us</a>
+		<ul>
+			<li><a href="http://violinlab.com/Contact">Contact</a></li>
+			<li><a href="http://violinlab.com/Testimonial">Testimonials</a></li>
+			<li><a href="http://violinlab.com/Members/SignUp/"><b>Join Us</b></a></li>
+		</ul>
+	</li>
+	<li><a href="http://violinlab.com/VideoLessons">Live Violin Class</a></li>
+	<li><a href="http://violinlab.com/Resources">Resources</a></li>
+	
+	
+	<!--<li><a href="http://violinlab.com/Quiz">Music Skills App</a></li>-->
+	<li><a href="http://violinlab.com/Workshop">Workshops</a></li>
+	<li><a href="http://violinlab.com/noteReading/">Note Reading</a></li>
+	
+	
+</ul>
+
+		
+</div>
+
+<!--
+<div id='facebook'>
+				<table>
+					<tr>
+						<td>
+							<a href="http://www.facebook.com/pages/Violin-Lab/251641445652"><img src="http://violinlab.com/skin/images/facebook.png" title="Facebook" border="0" /></a></td>
+		                </td>
+					</tr>
+				</table>
+			</div>
+</div>
+-->
+
+
+
+
+
+
+<script>
+
+$('#language').change(function(){
+		
+	var getLanguage = $(this).val();
+					
+	window.location.assign('http://violinlab.com/languageSession.php?language=' + getLanguage);	
+	
+});
+
+</script>
+
+<div id="fb-root"></div>
+<script>
+	( function(d, s, id) {
+			var js,
+			    fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id))
+				return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk')); 
+</script>
+
+
+
+<script>
+	! function(d, s, id) {
+		var js,
+		    fjs = d.getElementsByTagName(s)[0];
+		if (!d.getElementById(id)) {
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "https://platform.twitter.com/widgets.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}
+	}(document, "script", "twitter-wjs"); 
+</script>        
+
+
+
+
+
+</body>
+
+</html>
+
+		
+

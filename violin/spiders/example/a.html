@@ -1,0 +1,134 @@
+<html>
+
+	<head>
+		<title>Lessons</title>
+		<meta name="TITLE" content="$meta_title" />
+		<meta name="DESCRIPTION" content="" />		
+		<meta name="KEYWORDS" content=""/>
+		<meta name="AUTHOR" content="Tony Edwards" />
+        <meta http-equiv="Refresh" content="60;url=../Community/videoMessage.php">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Copyright" content="" />
+<link rel="stylesheet" type="text/css" href="http://violinlab.com/skin/css/lessons.css">
+
+<script>
+	function favorite(memberId, lessonId) {
+
+		if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+			xmlhttp = new XMLHttpRequest();
+		} else {// code for IE6, IE5
+			xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+
+		var cbFavorite;
+
+		if (document.getElementById("favorite").checked == true)
+			cbFavorite = true;
+		else
+			cbFavorite = false;
+
+		//alert("member is " + memberId + " and lesson is " + lessonId + " checkbox says " + cbFavorite);
+
+		xmlhttp.open("GET", "processFavorite.php?member=" + memberId + "&lesson=" + lessonId + "&favorite=" + cbFavorite, true);
+		xmlhttp.send();
+
+	}
+
+	function cue(memberId, lessonId) {
+
+		if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+			xmlhttp = new XMLHttpRequest();
+		} else {// code for IE6, IE5
+			xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+
+		var cbFavorite;
+
+		if (document.getElementById("cue").checked == true)
+			cbCue = true;
+		else
+			cbCue = false;
+
+		//alert("member is " + memberId + " and lesson is " + lessonId + " checkbox says " + cbFavorite);
+
+		xmlhttp.open("GET", "processQue.php?member=" + memberId + "&lesson=" + lessonId + "&cue=" + cbCue, true);
+		xmlhttp.send();
+
+	}
+
+	function viewDescription() {
+
+		if (document.getElementById("cbDescription").checked == true)
+			document.getElementById("pnlDescription").style.display = 'block';
+		else
+			document.getElementById("pnlDescription").style.display = 'none';
+
+	}
+
+	function viewMaterials() {
+
+		if (document.getElementById("cbMaterials").checked == true)
+			document.getElementById("pnlMaterials").style.display = 'block';
+		else
+			document.getElementById("pnlMaterials").style.display = 'none';
+
+	}
+
+	function viewTags() {
+
+		if (document.getElementById("cbTag").checked == true)
+			document.getElementById("pnlTags").style.display = 'block';
+		else
+			document.getElementById("pnlTags").style.display = 'none';
+
+	}
+
+	function community() {
+
+		if (document.getElementById("cbCommunity").checked == true) {
+			document.getElementById("displayForm").style.visibility = 'visible';
+			//document.getElementById("confirmCommunity").style.visibility = 'visible';
+		} else {
+			document.getElementById("displayForm").style.visibility = 'hidden';
+			document.getElementById("confirmCommunity").style.visibility = 'hidden';
+		}
+
+	}
+
+	function displayCommunityConfirm() {
+
+		document.getElementById("confirmCommunity").style.visibility = 'visible';
+
+	}
+
+</script>
+
+</head>
+
+<body>
+<div class='title'>Putting on the Shoulder pad</div>
+<div id="confirmCommunity" style="width: 100%; text-align: left; font-size: 12px; visibility: hidden;"><b>Submitted to community discussion.</b></div>
+<center>
+
+<table border='0' cellspacing="10">
+<tr>
+<td valign="top">
+<iframe src="https://player.vimeo.com/video/133517984" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+</td>
+
+
+
+</tr>
+</table>
+
+<div id="pnlMaterials" style="text-align: left; width: 90%;  display: block; padding-bottom: 20px;">
+</div>
+
+<div id="pnlDescription" style="text-align: left; width: 90%;  display: block;">
+Positioning the shoulder pad is not as easy as it looks and often students put them on upside down. Beth demonstrates how to put the shoulder pad on the violin correctly.</div>
+</center>
+
+</body>
+</html>
+
